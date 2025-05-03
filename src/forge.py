@@ -272,26 +272,25 @@ def main():
     cursor = conn.cursor()
 
     try:
-        print("Creating Utilisateur records...")
+        print("utilisateur Ok")
         utilisateur_ids = create_and_get_ids(cursor, 'Utilisateur', 100)
 
-        print("Creating Lieu records...")
+        print("lieu Ok...")
         lieu_ids = create_and_get_ids(cursor, 'Lieu', 50)
 
-        print("Creating MotCle records...")
+        print("motcle Ok...")
         motcle_ids = create_and_get_ids(cursor, 'MotCle', 40)
 
-        print("Creating ReseauSocial records...")
+        print("reseausocial Ok...")
         reseau_ids = create_and_get_ids(cursor, 'ReseauSocial', 10)
 
-        print("Creating dependent records...")
+        print("records...")
         evenement_ids = create_dependent_data(cursor, lieu_ids, utilisateur_ids, motcle_ids, reseau_ids)
 
         conn.commit()
-        print("All data created successfully!")
+        print("tout est ok")
 
-        # Export data to CSV files
-        print("Exporting data to CSV files...")
+        print("csv...")
         export_to_csv(cursor, 'Utilisateur', 'csv/Utilisateur.csv')
         export_to_csv(cursor, 'Lieu', 'csv/Lieu.csv')
         export_to_csv(cursor, 'MotCle', 'csv/MotCle.csv')
@@ -307,11 +306,11 @@ def main():
         export_to_csv(cursor, 'TagEvenement', 'csv/TagEvenement.csv')
         export_to_csv(cursor, 'TagLieu', 'csv/TagLieu.csv')
         export_to_csv(cursor, 'OrganisateurEvenement', 'csv/OrganisateurEvenement.csv')
-        print("CSV files created successfully!")
+        print("csv ok")
 
     except Exception as e:
         conn.rollback()
-        print(f"Error: {e}")
+        print(f"erreur: {e}")
 
     finally:
         cursor.close()
