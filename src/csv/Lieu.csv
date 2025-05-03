@@ -1,0 +1,301 @@
+id_l,nom,adresse,type
+151,Lebon,"chemin de Vidal
+77759 Alexandreboeuf",Parc
+152,Perrin et Fils,"41, chemin de Bonnin
+62985 Charrier",Restaurant
+153,Breton,"3, avenue Legendre
+46777 Pascal",Restaurant
+154,Bouvet,"43, chemin de Bruneau
+91903 Barthelemy",Parc
+155,Boyer Evrard S.A.S.,"boulevard de Dias
+97233 Da Costanec",Bar
+156,Olivier Blanc S.A.,"86, rue Faivre
+42751 Gonzalezboeuf",Bar
+157,Boyer,"37, rue Antoinette Vallet
+57603 Bigot",Bar
+158,Blin,"avenue de Dupont
+72236 Le Goff-les-Bains",Bar
+159,Foucher et Fils,"42, rue Vaillant
+26431 Sainte Laurence",Parc
+160,Ribeiro,"7, boulevard Boulanger
+59727 Bègue-sur-Mer",Bar
+161,Diaz S.A.,"67, rue de Michaud
+43323 Masson",Salle de concert
+162,Fabre,"64, rue de Lenoir
+62914 Cousin-la-Forêt",Bar
+163,Delmas,"chemin de Lamy
+89254 Fernandez-la-Forêt",Parc
+164,Pinto Besnard S.A.S.,"25, rue Madeleine Guyot
+83813 Garcia-les-Bains",Parc
+165,Vidal,"4, boulevard Tristan Guillet
+04734 De Sousa",Bar
+166,Guillou SARL,"37, avenue de Da Costa
+80867 Saint Margaudboeuf",Salle de concert
+167,Hoarau,"6, chemin Alexandre
+48335 Coste",Bar
+168,Breton,"79, avenue de Petit
+95611 FontaineBourg",Restaurant
+169,Muller,"96, chemin Gaillard
+15739 Sainte Virginie",Parc
+170,Mercier Colin S.A.,"77, rue Martine Gros
+87946 Guérinnec",Salle de concert
+171,Bazin,"99, rue Jean
+28637 Saint NathBourg",Bar
+172,Barre S.A.R.L.,"69, boulevard de Legendre
+37413 Bernard-sur-Besson",Parc
+173,Gay S.A.S.,"rue de Louis
+40543 Chauveau-sur-Mer",Salle de concert
+174,Chartier SARL,"69, boulevard Chrétien
+02298 Sainte Antoine",Salle de concert
+175,Fontaine,"56, rue Dupuis
+26333 Poirierdan",Parc
+176,Guillou,"48, chemin Andrée Grégoire
+66441 Sainte Henrinec",Bar
+177,Auger,"2, boulevard Pereira
+75149 Buisson-sur-Guillot",Parc
+178,Berthelot S.A.S.,"79, boulevard de Leconte
+53199 Adamboeuf",Salle de concert
+179,Le Goff SARL,"64, avenue Suzanne Pottier
+58956 Hoarau",Bar
+180,Courtois SA,"24, rue Lucas Leblanc
+19120 Costa",Restaurant
+181,Marion,"28, rue de Guyot
+92596 Sainte Philippe-sur-Mer",Parc
+182,Nicolas,"72, chemin de Boulay
+46424 Gérard",Bar
+183,Peron S.A.R.L.,"7, rue de Bertin
+30792 Jourdan-les-Bains",Restaurant
+184,Foucher Texier S.A.S.,"253, boulevard Madeleine Diaz
+19365 Gilles-sur-Gérard",Bar
+185,Laine,"894, rue Yves Leclercq
+02456 PoulainVille",Parc
+186,Giraud Becker S.A.R.L.,"avenue Petit
+50742 Maury",Bar
+187,Martin Potier S.A.S.,"chemin Vincent Wagner
+78284 Valentindan",Parc
+188,Hoarau Menard et Fils,"32, rue Philippe Schneider
+50690 Henry",Salle de concert
+189,Gaudin Mendès SARL,"39, boulevard de Lemaître
+05414 Da Costa",Bar
+190,Reynaud Ferrand SA,"85, rue Rousseau
+97622 Le Goff",Salle de concert
+191,David Poulain SARL,"45, chemin de Alexandre
+45937 Saint Marthe",Parc
+192,Gilbert,"275, rue Petitjean
+65882 Teixeira",Restaurant
+193,Carlier,"2, rue Durand
+56265 Chauvet",Parc
+194,Guillou,"81, boulevard Constance Texier
+40665 Faure",Parc
+195,Gilles S.A.,"66, chemin Lombard
+57353 Carre",Bar
+196,Clément et Fils,"99, boulevard Henri Roche
+44832 Saint Rémy",Restaurant
+197,Valette,"7, chemin Bailly
+24334 Riou",Bar
+198,Pons Lesage et Fils,"85, boulevard Christelle Breton
+56922 Arnaud",Salle de concert
+199,Goncalves SA,"408, chemin Ledoux
+33393 Sainte Christophe",Salle de concert
+200,Martineau,"5, rue Paul Brun
+63787 Payetnec",Salle de concert
+201,Bonnet et Fils,"92, rue de Thibault
+20826 Saint Sébastien",Bar
+202,Lévy,"55, rue Arthur Rodriguez
+11626 MullerVille",Salle de concert
+203,Diallo SARL,"56, rue Lecomte
+42880 Normand",Salle de concert
+204,Dijoux Giraud S.A.S.,"29, boulevard Deschamps
+44252 Joubertboeuf",Salle de concert
+205,Lévy et Fils,"408, chemin Patricia Chevalier
+02999 Gérard",Bar
+206,Baron Humbert SARL,"6, rue Thibault
+41615 Lebreton-sur-Bertin",Bar
+207,Carpentier Leconte S.A.,"70, boulevard Barbier
+90637 Blancboeuf",Bar
+208,Wagner,"77, rue de Torres
+17279 Sainte Gilles",Restaurant
+209,Raymond S.A.,"93, boulevard de Toussaint
+78289 JosephVille",Parc
+210,Carpentier Muller SARL,"768, rue Le Gall
+32747 Pinto",Parc
+211,Delahaye,"5, boulevard de Laporte
+61725 Saint Céline-sur-Mer",Parc
+212,Charpentier Bouvier et Fils,"1, boulevard de Torres
+41162 Maillot-sur-Mer",Restaurant
+213,Munoz,"5, avenue Louis
+47614 CarlierBourg",Parc
+214,Alexandre Benoit S.A.S.,"23, rue de Moulin
+13542 Saint Henriboeuf",Parc
+215,Étienne,"43, boulevard de Daniel
+89555 Rossi-la-Forêt",Salle de concert
+216,David,"51, rue de Étienne
+31562 Baron",Bar
+217,Didier,"8, rue de Couturier
+10664 Sainte Cécile-la-Forêt",Parc
+218,Lebon,"49, rue Claude Marion
+83710 Vidal",Parc
+219,Bousquet Pottier SA,"24, avenue Ollivier
+60477 Duhamel",Salle de concert
+220,Leconte,"72, avenue de Tessier
+07648 Vidal-sur-Parent",Bar
+221,Robin Gautier et Fils,"8, rue de Schmitt
+03556 Sainte Zoé",Salle de concert
+222,Lacroix Le Roux S.A.R.L.,"boulevard Labbé
+71628 Klein",Parc
+223,Masse S.A.S.,"22, avenue Torres
+14295 Joseph-les-Bains",Parc
+224,Sanchez,"chemin de Gaudin
+04811 Davidnec",Bar
+225,Carpentier,"chemin de Gomes
+76717 Saint Hortense-sur-Mer",Salle de concert
+226,Roux S.A.,"781, avenue Bernard Richard
+72625 Ollivierboeuf",Restaurant
+227,Roger S.A.,"89, rue Marthe Boucher
+22221 Guyot",Salle de concert
+228,Richard,"26, rue de Maillot
+07594 Meunier",Restaurant
+229,Michaud Schneider S.A.R.L.,"928, boulevard Nicolas Leblanc
+31785 Leduc-la-Forêt",Salle de concert
+230,Bailly,"50, chemin de Lebrun
+39922 Boucher",Salle de concert
+231,Pichon S.A.,"boulevard Joseph Dijoux
+30500 Girauddan",Bar
+232,Guillet S.A.S.,"89, avenue Roger Dumas
+87797 Mary",Bar
+233,Rolland,"boulevard Richard Parent
+12407 Coulon",Salle de concert
+234,Martin Besson S.A.R.L.,"69, avenue de Rousseau
+20165 Saint BenjaminBourg",Salle de concert
+235,Rocher,"81, boulevard de Delannoy
+76386 Saint Chantal",Parc
+236,Duhamel S.A.S.,"18, rue Morin
+43647 Ramos",Salle de concert
+237,Morel SA,"rue de Marin
+49310 Chartiernec",Restaurant
+238,Martel Bruneau S.A.R.L.,"79, rue Christiane Verdier
+28449 Masseboeuf",Salle de concert
+239,Bonnin,"21, rue de Étienne
+01183 Sainte Michèle",Restaurant
+240,Julien,"chemin Zoé Monnier
+90706 De Oliveira-la-Forêt",Parc
+241,Gosselin Louis et Fils,"508, rue Ramos
+42637 Nguyen",Bar
+242,Faure,"7, avenue Bouvet
+86159 Dupuis",Salle de concert
+243,Techer SA,"289, avenue Perrot
+35427 Rocher",Bar
+244,Guillon,"5, rue Augustin Legros
+72461 Masse",Salle de concert
+245,Mace SA,"76, chemin Suzanne Rodriguez
+52782 Duhamel",Parc
+246,Boulay,"60, avenue de Hervé
+44270 Coste",Parc
+247,Lecomte,"96, rue de Reynaud
+82441 Olivier-la-Forêt",Restaurant
+248,Pires Maillet SARL,"13, chemin Joubert
+16517 Da Costa",Parc
+249,Pruvost Alexandre SARL,"775, chemin Humbert
+94722 Pichon",Bar
+250,Lagarde,"17, boulevard de Benard
+77945 Vallée",Bar
+251,Fernandez et Fils,"86, rue Guillaume Pereira
+80363 Brunboeuf",Bar
+252,Lecoq Coulon et Fils,"35, avenue Vincent
+81266 Arnaud",Parc
+253,Peron,"89, rue de Giraud
+37570 Maillard",Salle de concert
+254,Lefèvre,"848, rue Thomas Blin
+93430 Sainte Williamboeuf",Bar
+255,Laporte Leblanc S.A.S.,"rue Julie Maillot
+35698 Legendreboeuf",Salle de concert
+256,Germain Léger S.A.S.,"43, chemin Besnard
+53203 FernandezBourg",Bar
+257,Pages S.A.,"83, chemin Bernadette Laurent
+90507 Leroydan",Parc
+258,Berthelot SARL,"9, rue de Salmon
+77824 Leconte",Salle de concert
+259,Peron S.A.R.L.,"27, rue de Dijoux
+97150 Lefort",Restaurant
+260,Lombard De Sousa S.A.,"boulevard de Lebrun
+53699 Saint Catherine-la-Forêt",Salle de concert
+261,Colas S.A.,"4, avenue Alves
+42236 Becker-sur-Mer",Bar
+262,Bailly Mary et Fils,"80, rue Michelle Camus
+71105 Godard",Salle de concert
+263,Rivière,"112, rue Bernard Bodin
+36795 Sainte Williamboeuf",Salle de concert
+264,Robert,"boulevard Peron
+97173 Guilbert",Parc
+265,Faure SARL,"99, rue Hortense Roux
+81198 Roussel",Salle de concert
+266,Pottier S.A.S.,"4, rue de Pires
+15375 Renarddan",Parc
+267,Didier S.A.S.,"89, rue Lambert
+17465 Joly",Restaurant
+268,Cordier,"97, chemin de Faivre
+62199 Sancheznec",Restaurant
+269,Rivière,"58, avenue Neveu
+09592 Sainte Dominiquedan",Restaurant
+270,Gillet SARL,"2, boulevard de Menard
+53893 Gay",Parc
+271,Bonnet,"61, boulevard Aimé Marchand
+82551 Bousquet",Parc
+272,Gilles SARL,"25, boulevard de Valentin
+64804 Hardy",Parc
+273,Rémy Couturier et Fils,"939, boulevard Bailly
+54957 Bodin",Bar
+274,Perrier et Fils,"rue de Germain
+95487 Samson",Parc
+275,Georges,"rue de Carre
+86273 Picardnec",Parc
+276,Perret,"75, rue de Sanchez
+58576 Mace",Restaurant
+277,Dupré Moreno S.A.S.,"93, avenue de Leduc
+28518 Saint Brigittedan",Restaurant
+278,Leroy SARL,"avenue de Deschamps
+17716 LacombeBourg",Restaurant
+279,Gimenez Chartier SA,"avenue Dias
+32855 Saint SuzanneBourg",Restaurant
+280,Jean,"avenue de Dias
+14638 Humbertnec",Salle de concert
+281,Traore,"4, rue Céline Gomes
+50194 Nicolasdan",Salle de concert
+282,Robert SA,"582, boulevard de Thierry
+38332 Henry",Salle de concert
+283,Leroy SA,"5, avenue Sanchez
+83571 Chevalier",Restaurant
+284,Morvan S.A.S.,"89, rue Patricia Jacob
+73461 Vallée",Restaurant
+285,Besson,"avenue Pineau
+97435 Ponsnec",Salle de concert
+286,Leroy Laurent S.A.R.L.,"6, rue Hardy
+14379 Sainte Thibault",Restaurant
+287,Millet SARL,"23, rue Marthe Muller
+62353 Martinez",Parc
+288,Valentin S.A.S.,"87, avenue Xavier Girard
+10819 Henry",Parc
+289,Lenoir,"chemin Joly
+78654 Sainte Agnèsnec",Parc
+290,Langlois Moulin SA,"93, rue Lecoq
+15915 Faivre-les-Bains",Salle de concert
+291,Boyer et Fils,"7, rue Lévêque
+19745 Duhamel",Parc
+292,Toussaint,"chemin Perrot
+71972 Valette-les-Bains",Restaurant
+293,Robin SARL,"77, rue Émilie Boucher
+23181 Saint Pierre",Salle de concert
+294,Techer SA,"boulevard Henriette Humbert
+94545 PicardBourg",Bar
+295,Delahaye,"91, avenue Pierre Julien
+91166 Brun-sur-Mer",Restaurant
+296,Hoarau Bruneau SA,"752, avenue de Poirier
+64263 Saint Susanne-sur-Mer",Parc
+297,Delmas S.A.,"770, avenue Couturier
+17793 Milletnec",Bar
+298,Coste et Fils,"6, boulevard Paris
+97171 Saint DianeBourg",Parc
+299,Petit Vidal SA,"145, avenue Robert
+56501 Lebon-sur-Carlier",Bar
+300,Carlier SA,"3, boulevard Martin
+97381 Dumont-sur-Mer",Salle de concert
