@@ -1,301 +1,101 @@
 id_u,pseudo,prenom,nom,ville,pays,genre,orientation,taille,poids,couleur_y,est_abonne
-401,legervalentine,Odette,Launay,Samson,Singapour,Homme,Hétéro,155,67.7,fuchsia,False
-402,camilleclement,Rémy,Robin,Martineau,Tuvalu,Homme,Hétéro,189,96.7,jaune,False
-403,qmeyer,Stéphane,Deschamps,Sainte Sophie,Lettonie,Autre,Hétéro,183,79.0,argent,True
-404,tristangosselin,Martine,Thibault,Peltier,Oman,Femme,Autre,166,60.2,bleu,False
-405,susannebouvier,François,Salmon,Bonnet,Gambie,Femme,Autre,193,99.5,rouge,False
-406,pintogenevieve,Alex,Boulanger,Martineau,Hong Kong,Homme,Bisexuel,191,56.2,rouge,True
-407,marguerite08,Denis,Devaux,Raymond-sur-Merle,Polynésie française,Femme,Homosexuel,182,50.4,gris,False
-408,aurelie17,Laurent,Descamps,Bertin,Sierra Leone,Autre,Hétéro,187,60.2,fuchsia,True
-409,qbouchet,Cécile,Bouvet,Garnier,Sahara Occidental,Autre,Hétéro,164,55.0,gris,True
-410,marine87,Constance,Bourdon,Cordier-la-Forêt,Turks et Caïques (Îles),Autre,Hétéro,175,59.1,cyan,False
-411,michele33,Franck,Bazin,Mathieu-sur-Pages,"Corée, Sud",Autre,Hétéro,167,86.9,violet,True
-412,patricia59,Éléonore,Gomez,Fernandez-sur-Valentin,Iran,Autre,Autre,166,98.0,violet,False
-413,duhamelsusan,Joséphine,Gros,Seguin,Finlande,Autre,Homosexuel,198,68.6,argent,False
-414,amelieperez,Franck,Lelièvre,Bernier-les-Bains,Uruguay,Homme,Autre,170,81.8,noir,False
-415,eleonore64,Laetitia,Barbier,Sanchezboeuf,Liban,Femme,Homosexuel,194,86.3,cyan,True
-416,mmaillot,Laurence,Gaudin,Boyernec,Espagne,Femme,Hétéro,189,95.4,sarcelle,True
-417,gerardaudrey,Amélie,Robin,Sainte Céline,Rwanda,Femme,Autre,157,94.9,bleu,False
-418,mathilde72,Charles,Jacquot,Couturier,Syrie,Homme,Hétéro,176,62.5,argent,False
-419,noemipons,Victoire,Vallet,JeanBourg,Zambie,Homme,Homosexuel,194,85.2,noir,False
-420,ida-silva,Suzanne,Bazin,Ferreira,Bolivie,Autre,Hétéro,173,66.9,fuchsia,True
-421,sebastien21,Océane,Gay,Masson-la-Forêt,Iran,Homme,Hétéro,171,78.1,jaune,False
-422,oschneider,Susanne,Guillou,Voisin,États-Unis,Homme,Bisexuel,175,53.3,blanc,True
-423,wblanchet,Georges,Vallet,WeissVille,Uruguay,Homme,Bisexuel,179,96.4,bordeaux,True
-424,raymond30,Caroline,Rolland,Dupuy,Paraguay,Femme,Homosexuel,196,96.7,noir,True
-425,alicedos-santos,Charles,Delattre,Bailly,Bermudes (Les),Autre,Autre,197,98.8,gris,True
-426,orocher,Agnès,Traore,Saint Virginie,Thailande,Femme,Hétéro,162,63.8,fuchsia,False
-427,kcolin,Suzanne,Rivière,DelormeBourg,Syrie,Autre,Hétéro,195,61.6,blanc,False
-428,diane22,Diane,Sanchez,Fabre,Burkina Faso,Homme,Bisexuel,177,86.1,rouge,True
-429,tbarbier,Claudine,Benoit,Saint Thibaut,Gambie,Homme,Autre,190,94.6,gris,True
-430,barredenise,Nath,Chartier,Fleuryboeuf,Togo,Homme,Autre,162,63.3,vert,True
-431,laurencechauvet,Capucine,Baudry,Saint Pénélopeboeuf,Arabie saoudite,Homme,Hétéro,164,63.1,sarcelle,True
-432,victorcohen,René,Ferreira,Sainte Thibault-la-Forêt,Slovénie,Homme,Autre,170,91.8,fuchsia,True
-433,yvaillant,Suzanne,Chartier,Guillou-sur-Lemoine,Géorgie du Sud et Sandwich du Sud (Îles),Autre,Hétéro,169,89.0,argent,True
-434,inesgaudin,Gabriel,Hervé,Gautier-sur-Bailly,Antilles néerlandaises,Homme,Autre,163,53.3,noir,True
-435,antoinemonnier,Christelle,Leroy,Lambert,Iran,Autre,Autre,194,86.5,fuchsia,True
-436,marcelle95,Marie,Voisin,Gilletnec,Arabie saoudite,Femme,Hétéro,200,52.3,cyan,False
-437,hdupuy,Margot,Legros,Hoarau-la-Forêt,Antilles néerlandaises,Femme,Autre,173,92.2,sarcelle,False
-438,pierredelahaye,Renée,Royer,Baudry-sur-Hamon,Mali,Autre,Homosexuel,189,57.6,jaune,True
-439,manonmarty,Louise,Weber,Diallo,Bouvet (Îles),Autre,Bisexuel,174,83.3,argent,True
-440,emilevalentin,Alfred,Regnier,Bigot-sur-Dupuis,Honduras,Femme,Hétéro,176,69.3,vert,True
-441,prevostalexandre,André,Da Silva,Marin,Portugal,Autre,Hétéro,188,85.4,cyan,True
-442,ifleury,Julien,Dumont,Courtois-sur-Lacroix,Venezuela,Homme,Bisexuel,170,76.7,cyan,True
-443,rbrun,Eugène,Fournier,Gosselin,Soudan,Femme,Bisexuel,181,82.4,sarcelle,False
-444,nicole93,Marcelle,Maillot,Marin,Émirats arabes unis,Autre,Bisexuel,173,52.2,fuchsia,False
-445,beguexavier,Gérard,Blondel,Valentin,Cameroun,Femme,Bisexuel,191,56.7,bleu,True
-446,christine01,Margot,Carre,Bigot,Zaïre,Femme,Bisexuel,188,63.9,sarcelle,True
-447,sferreira,Luce,Charles,Hardy-sur-Toussaint,Tokelau,Autre,Autre,175,81.9,argent,True
-448,chantal96,Marc,Pages,François,Burkina Faso,Homme,Hétéro,186,77.9,blanc,False
-449,madeleine67,Philippe,Bertrand,MartinsBourg,Ukraine,Homme,Homosexuel,161,79.4,cyan,True
-450,tgirard,Alexandrie,Dumas,Boutin,Irlande,Femme,Bisexuel,167,53.7,bordeaux,True
-451,christianemaillet,Théophile,Baron,Maillot,El Salvador,Femme,Hétéro,177,69.5,jaune,True
-452,christineblanc,Danielle,Philippe,Thibaultdan,Moldavie,Femme,Autre,160,93.4,bordeaux,True
-453,blanchetrobert,Monique,Delahaye,Fontaine,Myanmar,Homme,Homosexuel,167,86.6,gris,True
-454,odupuis,Suzanne,Leconte,Carre-sur-Martins,France,Femme,Bisexuel,150,98.7,bordeaux,False
-455,colette76,Élisabeth,Mary,Dupont,Kenya,Homme,Bisexuel,199,90.4,violet,False
-456,adrien03,Roger,Joubert,Boyer,Cap Vert,Homme,Homosexuel,164,79.8,cyan,True
-457,antoinezoe,Auguste,Perrin,Gilles-sur-Mer,Turkménistan,Autre,Homosexuel,186,74.8,bordeaux,True
-458,chauvetalice,Josette,Hervé,Renaud,Géorgie du Sud et Sandwich du Sud (Îles),Autre,Autre,181,68.0,bordeaux,False
-459,bessonconstance,Cécile,Marie,Goncalves-sur-Blanchard,Albanie,Femme,Autre,169,99.7,sarcelle,False
-460,qperrier,Lorraine,Cousin,Pierre,Gibraltar,Autre,Autre,175,87.1,cyan,True
-461,alfred32,Astrid,Rodriguez,Mathieu,Jordanie,Femme,Homosexuel,165,97.0,cyan,False
-462,nathalie92,Eugène,Meunier,Pages,Falkland (Île),Autre,Bisexuel,171,74.7,cyan,False
-463,meunierphilippine,Sophie,Lopez,Buisson,Bahrain,Femme,Bisexuel,171,87.3,bleu,True
-464,andregillet,Dorothée,Mace,Dos Santos,Albanie,Homme,Bisexuel,167,53.6,rouge,False
-465,ameliecohen,Jacques,Joly,Gaillardnec,Guatemala,Autre,Bisexuel,189,96.7,vert,False
-466,jacquelinepeltier,Henri,Georges,Chevalier,Vatican (Etat du),Homme,Autre,189,69.6,rouge,False
-467,chantal12,Benjamin,Pottier,Barbe,Estonie,Femme,Autre,162,74.4,cyan,True
-468,marianne34,Thierry,Charpentier,GuillonBourg,République tchèque,Homme,Autre,170,53.7,gris,True
-469,isabelledijoux,Margaret,Lesage,Fernandes,Italie,Femme,Homosexuel,150,82.2,bleu,True
-470,pmercier,Camille,Reynaud,Sainte Édouarddan,Maldives (Îles),Femme,Homosexuel,169,89.3,blanc,False
-471,julienmarion,Joseph,Reynaud,Godard,Singapour,Autre,Bisexuel,190,68.5,vert,True
-472,hervedenise,Anne,Navarro,Humbert,Rwanda,Femme,Bisexuel,181,64.0,blanc,True
-473,cohenchristophe,Madeleine,Pineau,Petitjean-la-Forêt,Polynésie française,Homme,Hétéro,184,71.9,violet,False
-474,patrick28,Joséphine,Chevallier,RocherBourg,Zambie,Femme,Autre,155,57.5,bordeaux,False
-475,benardantoine,Diane,Blot,Leroynec,Kazakhstan,Femme,Homosexuel,182,90.1,rouge,False
-476,michellerolland,Eugène,Da Costa,Gay,Mexique,Autre,Homosexuel,160,72.1,argent,False
-477,techerandree,Michèle,Nicolas,Sainte Jacques,Vierges britanniques (Îles),Femme,Autre,159,71.5,blanc,True
-478,alfred44,Christophe,Rossi,Martineau,Myanmar,Autre,Autre,158,74.4,cyan,True
-479,rodriguestheophile,Marine,Nicolas,Sainte Monique,Autriche,Autre,Autre,158,60.8,jaune,True
-480,devauxlaetitia,Valérie,Hoareau,Gillet-sur-Barbe,Christmas (Île),Femme,Bisexuel,198,80.1,gris,True
-481,zrenard,Adèle,Lesage,Diazboeuf,Botswana,Autre,Hétéro,174,59.2,sarcelle,False
-482,paulineteixeira,Agnès,Gomes,Philippe,La Barbad,Homme,Homosexuel,164,97.8,fuchsia,False
-483,sebastienantoine,Victoire,Rivière,TanguyBourg,Brésil,Femme,Autre,188,60.2,fuchsia,False
-484,martin01,Amélie,Munoz,Albert-sur-Perret,Tadjikistan,Femme,Homosexuel,195,63.6,sarcelle,False
-485,legeranastasie,Bertrand,Texier,Verdier-la-Forêt,Samoa,Femme,Bisexuel,179,84.7,violet,False
-486,michellechauvet,Thomas,Ferreira,Saint Alexandria,Nouvelle Calédonie,Femme,Hétéro,192,95.9,rouge,True
-487,tclerc,Guy,Guillon,Bruneau-sur-Hamon,Pitcairn (Îles),Femme,Bisexuel,155,96.7,gris,True
-488,rfaure,Luce,Hamel,Dupuis-sur-Mer,Svalbard et Jan Mayen (Îles),Autre,Autre,153,80.5,violet,True
-489,hernandezjeannine,Andrée,Fontaine,SauvageVille,Roumanie,Femme,Autre,167,87.9,sarcelle,True
-490,guillaumechristine,Louis,Boutin,Saint Marcel,Martinique,Homme,Homosexuel,166,98.2,vert,False
-491,stephane33,Nathalie,Bonneau,Sainte Laurent-la-Forêt,Mexique,Homme,Bisexuel,163,90.6,bordeaux,False
-492,robinthomas,Étienne,Le Goff,DenisBourg,Nepal,Homme,Hétéro,174,69.0,cyan,True
-493,guilbertzoe,Sophie,Faure,Camus,Burkina Faso,Homme,Hétéro,160,52.9,rouge,True
-494,theophile69,Manon,Grégoire,Sainte Laetitia,Nouvelle-Zélande,Femme,Hétéro,151,53.2,argent,True
-495,fpayet,Paulette,Pruvost,Dijouxnec,Somalie,Femme,Bisexuel,176,89.4,argent,False
-496,danielle06,Marine,Navarro,Richard-sur-Peltier,Vierges britanniques (Îles),Femme,Bisexuel,177,98.8,argent,True
-497,marquesnathalie,Simone,Reynaud,Sainte Étienne,Norfolk (Îles),Autre,Autre,187,92.5,rouge,True
-498,gilbert85,Marianne,Vincent,Poulain,Mali,Homme,Bisexuel,175,53.4,violet,False
-499,loiseauleon,Gilles,Lelièvre,Louis,Arabie saoudite,Autre,Autre,184,93.5,bleu,True
-500,pierre07,Henri,Lacombe,Faivre,Russie,Homme,Hétéro,192,61.2,vert,True
-501,paulperrin,Élise,Denis,Saint Hortense,Costa Rica,Autre,Homosexuel,192,64.4,noir,True
-502,celine55,Emmanuelle,Gautier,Dupuy,Ghana,Femme,Hétéro,185,59.5,bordeaux,True
-503,margotdevaux,Océane,Lagarde,RamosVille,Croatie,Autre,Bisexuel,155,79.1,violet,True
-504,susan67,Océane,Bonnin,Mercierdan,Érythrée,Homme,Homosexuel,195,75.7,fuchsia,False
-505,delaunaypatricia,Clémence,Ruiz,MoreauBourg,Pologne,Homme,Hétéro,175,81.2,cyan,True
-506,thibaut13,François,Clerc,Saint Astrid-les-Bains,Maurice,Femme,Homosexuel,171,64.3,sarcelle,True
-507,bbailly,Joseph,Benard,Rivière-la-Forêt,Svalbard et Jan Mayen (Îles),Homme,Homosexuel,163,92.3,cyan,False
-508,grondincolette,Martine,Faivre,CharrierVille,Turquie,Femme,Homosexuel,186,86.9,gris,True
-509,jrenault,Matthieu,Pruvost,Delmas,Mozambique,Homme,Hétéro,185,56.1,sarcelle,False
-510,nicolasrodriguez,Julien,Le Goff,Mathieu-sur-Schneider,Kenya,Homme,Autre,151,67.1,fuchsia,False
-511,noel12,Thibaut,Toussaint,Sainte LouisBourg,Algérie,Autre,Homosexuel,174,57.6,bordeaux,False
-512,tlagarde,Charlotte,Vidal,Rousset-sur-Mahe,Mayotte,Autre,Hétéro,191,60.5,bleu,False
-513,xavierpons,Gilles,Breton,Pierre-sur-Martel,Paraguay,Femme,Bisexuel,189,67.5,vert,True
-514,vberger,Élodie,Marie,ClercBourg,Togo,Femme,Bisexuel,160,88.2,bleu,False
-515,paulette78,Camille,Barbe,Lefèvre,"Corée, Sud",Autre,Autre,182,83.9,jaune,False
-516,hortensemartel,Hugues,Bonneau,PerrinBourg,Belgique,Homme,Hétéro,168,99.7,vert,False
-517,vguillon,Jérôme,Perret,Lacroix,Brunei,Autre,Hétéro,168,98.7,vert,False
-518,marielopes,Alain,Gérard,Giraud-sur-Lebrun,Irlande,Autre,Hétéro,154,87.7,bordeaux,False
-519,alainvincent,Marianne,Pereira,Leblanc,Madagascar,Autre,Autre,152,54.4,vert,False
-520,augustinalexandre,Guy,Garnier,Saint Caroline,Bahrain,Autre,Bisexuel,179,77.9,blanc,False
-521,aurorerichard,Anaïs,Chauvin,Leroux,Oman,Femme,Homosexuel,196,60.3,noir,False
-522,zlabbe,Arnaude,Rivière,Vincent-les-Bains,Maldives (Îles),Homme,Homosexuel,161,96.2,argent,False
-523,celina26,Anouk,Le Goff,Sanchez-les-Bains,Chine (Rép. pop.),Autre,Hétéro,163,87.2,argent,True
-524,emiliehuet,David,Leroy,Saint Gilbert,Corée du Nord,Autre,Hétéro,196,95.5,vert,True
-525,leforttheodore,Manon,Guillot,Lopez-les-Bains,Panama,Autre,Bisexuel,155,61.0,sarcelle,False
-526,christophecollin,Alexandrie,Durand,Barbe,Slovénie,Homme,Bisexuel,178,72.7,blanc,True
-527,augustindufour,Thibaut,Guérin,Henry,Équateur,Femme,Hétéro,151,94.1,violet,True
-528,hoareaumathilde,Émile,Leroux,Rossi,Turks et Caïques (Îles),Femme,Hétéro,177,77.6,argent,False
-529,vparent,Roland,Ferreira,Leconte,Ouzbékistan,Homme,Bisexuel,173,64.1,rouge,False
-530,nathalie91,Laurent,Pascal,Moreau,Niger,Homme,Bisexuel,173,72.5,gris,False
-531,margotguillet,Michel,Collin,Guillot,Costa Rica,Femme,Autre,183,54.6,bordeaux,True
-532,davidroger,Alix,Besson,Perrot,Lithuanie,Femme,Homosexuel,160,57.4,vert,False
-533,lucy46,Franck,Vincent,Ruiz,Guinée Equatoriale,Homme,Autre,150,75.1,cyan,False
-534,gonzalezrenee,Marine,Lévêque,Hardy,Anguilla,Autre,Bisexuel,192,62.8,jaune,True
-535,guyotmartine,Adèle,Robin,Bousquet,Montserrat,Autre,Autre,198,90.3,jaune,True
-536,josettebarre,Auguste,Letellier,Dumont,Canada,Femme,Bisexuel,200,80.3,blanc,False
-537,fperrin,Tristan,Baudry,Blanchard-sur-Mer,Irak,Autre,Bisexuel,176,96.3,blanc,True
-538,stephane99,Emmanuel,Blin,Peltier-sur-Mer,Corée du Nord,Femme,Autre,195,82.3,jaune,False
-539,philippe64,Émilie,Costa,Sainte Denis,Gabon,Homme,Homosexuel,157,75.1,vert,False
-540,joubertanais,Denis,Marion,Roux,Turks et Caïques (Îles),Autre,Autre,172,63.0,blanc,True
-541,fcordier,Nathalie,Dufour,MerleBourg,Vierges (Îles),Femme,Autre,167,93.0,jaune,True
-542,hubertanne,Noémi,Vasseur,Sauvage-les-Bains,Antarctique,Autre,Bisexuel,164,90.0,bordeaux,False
-543,aguillaume,Luce,Julien,MarchandVille,Tokelau,Femme,Bisexuel,190,52.6,vert,True
-544,louis83,Brigitte,Gauthier,Pelletiernec,Nouvelle Calédonie,Homme,Autre,165,90.1,fuchsia,False
-545,sdescamps,Isaac,Vallée,Blondelnec,Andorre,Femme,Homosexuel,166,94.8,sarcelle,True
-546,crossi,Véronique,Labbé,Vincentnec,Heard et McDonald (Îles),Autre,Autre,197,66.8,fuchsia,False
-547,lebretonthibault,Amélie,Raynaud,Saint Antoinette-la-Forêt,Burundi,Homme,Homosexuel,187,84.7,bleu,True
-548,susancoulon,Paulette,Tessier,Antoine,Bolivie,Autre,Bisexuel,178,93.7,jaune,True
-549,delmasthomas,Marianne,Alves,Morin,Nigeria,Autre,Homosexuel,190,87.8,violet,False
-550,obourgeois,Hugues,Dufour,Saint Pénélope-les-Bains,Vierges britanniques (Îles),Autre,Autre,166,53.5,cyan,False
-551,pguyon,Nathalie,Letellier,Saint Nicolenec,Hong Kong,Homme,Hétéro,198,60.2,vert,True
-552,francois57,Richard,Alves,Léger,Samoa,Homme,Hétéro,178,78.8,jaune,True
-553,mulleraime,Michel,Bernard,ValetteVille,Hong Kong,Femme,Hétéro,177,87.0,blanc,False
-554,jeanne15,Patricia,Costa,Sainte Michelle,Kenya,Autre,Hétéro,163,54.9,rouge,True
-555,dijouxaime,Célina,Bouvier,Sainte René,Somalie,Autre,Hétéro,197,57.8,bordeaux,True
-556,lelievremargaud,Xavier,Girard,Benoit,Ouzbékistan,Femme,Hétéro,178,97.3,sarcelle,False
-557,goncalvesaime,Louise,Maillot,Berthelot,Rwanda,Femme,Autre,177,96.5,gris,True
-558,rene33,William,Texier,Marie,Slovaquie,Autre,Bisexuel,169,89.9,cyan,False
-559,slaporte,Constance,Reynaud,Pichonnec,Mauritanie,Femme,Autre,156,87.4,noir,True
-560,marthejacob,Laure,Letellier,Lévêque-sur-Riou,Nouvelle-Zélande,Autre,Bisexuel,160,82.7,rouge,False
-561,vincentchristophe,Martin,Lambert,Robert,Nigeria,Femme,Autre,160,68.6,bleu,True
-562,marineparis,Antoinette,Dumont,Lejeunenec,Ukraine,Autre,Hétéro,186,84.9,noir,False
-563,barbealain,Guy,Becker,Sainte Virginienec,Pérou,Autre,Hétéro,196,92.4,gris,True
-564,rodriguesolivier,Bertrand,Blin,Gosselindan,Botswana,Autre,Bisexuel,172,68.1,bordeaux,False
-565,madeleine16,Célina,Techer,Charpentier,Australie,Autre,Hétéro,182,92.2,cyan,True
-566,francoise96,Alix,Henry,Collet,Laos,Homme,Autre,152,53.4,bordeaux,False
-567,xperrin,Marianne,Leconte,Hebertdan,Comores,Homme,Hétéro,156,79.2,bleu,True
-568,twagner,Nathalie,Langlois,Marquesnec,Algérie,Femme,Bisexuel,168,98.2,jaune,False
-569,ilambert,Tristan,Samson,Nicolas,Malaisie,Femme,Homosexuel,177,65.2,gris,False
-570,zoegonzalez,Véronique,Joly,Marchaldan,Cameroun,Autre,Bisexuel,159,94.4,blanc,False
-571,faivretherese,Luc,Lombard,Guillaume,Roumanie,Femme,Homosexuel,158,78.5,rouge,False
-572,huguesmichaud,Pénélope,Voisin,Gaynec,Cuba,Autre,Autre,196,60.5,sarcelle,False
-573,odurand,Françoise,Blanchard,Charrier-sur-Monnier,Cook (Îles),Homme,Hétéro,167,72.3,jaune,False
-574,nmoreno,Antoinette,Texier,BuissonBourg,Gabon,Homme,Hétéro,182,50.5,argent,False
-575,davidsimon,Maggie,Gaudin,Philippe,Croatie,Femme,Hétéro,189,66.7,bleu,False
-576,augustincolas,Roger,Lucas,Bazin-sur-Gonzalez,Burundi,Autre,Homosexuel,196,75.2,bordeaux,False
-577,irossi,Mathilde,Couturier,Sainte Olivier,Sainte Lucie,Femme,Autre,192,76.7,cyan,True
-578,cecile74,Vincent,Blondel,Maillardboeuf,Azerbaïdjan,Femme,Hétéro,163,94.9,bordeaux,True
-579,laurentantoine,Victor,Bazin,GoncalvesVille,Égypte,Autre,Autre,180,74.3,jaune,True
-580,odettealexandre,Christelle,Brun,Guichard,Jordanie,Femme,Bisexuel,179,86.2,sarcelle,False
-581,celineandre,Jeanne,Rivière,Saint Julien,Comores,Autre,Bisexuel,187,78.8,sarcelle,True
-582,leon49,Amélie,Lopes,Sainte Maggie-sur-Mer,Nauru,Femme,Homosexuel,194,57.9,gris,False
-583,tristanmarques,Agathe,Hebert,Delmas,Belize,Autre,Autre,176,80.3,vert,True
-584,denislemaire,Martin,Chauvin,De Oliveira,Pérou,Homme,Autre,168,68.0,noir,False
-585,luclambert,Denise,Gaudin,Sainte DenisBourg,Chili,Autre,Homosexuel,160,73.6,blanc,True
-586,blondelgilles,Noémi,Vasseur,Lamy,Djibouti,Femme,Hétéro,200,61.5,sarcelle,True
-587,charlotte79,Sophie,Clément,Baronboeuf,Islande,Femme,Hétéro,194,75.0,fuchsia,True
-588,noel23,Jeanne,Courtois,Sainte Olivieboeuf,Libye,Femme,Autre,196,98.9,vert,True
-589,cecile46,Louise,Ramos,Dijoux,Arménie,Autre,Bisexuel,160,96.0,noir,False
-590,massemadeleine,Patricia,Léger,Besnard-la-Forêt,Chili,Homme,Autre,179,98.1,fuchsia,True
-591,bessoncelina,Édouard,Joly,NicolasVille,Angola,Femme,Autre,199,90.3,bordeaux,True
-592,penelopegregoire,Célina,Laurent,Bonnet-sur-Delattre,Vanuatu,Autre,Bisexuel,189,71.8,blanc,False
-593,alfred01,Pauline,Gallet,Lucas,Libye,Femme,Homosexuel,188,95.5,gris,False
-594,dorothee27,Gilles,Pineau,Marchand-sur-Chauvin,Nauru,Autre,Hétéro,180,90.0,fuchsia,False
-595,aimee22,Emmanuelle,Caron,Sainte Colette,Kazakhstan,Autre,Autre,191,71.9,vert,False
-596,susan37,Martine,Boulanger,Lombard,Dominique,Homme,Autre,173,69.3,noir,False
-597,jpelletier,Dominique,Lecoq,Michaud,Lesotho,Femme,Autre,166,79.5,gris,False
-598,michelenicolas,François,Buisson,Saint Théophile,Qatar,Homme,Homosexuel,152,80.6,cyan,False
-599,bmallet,Aimé,Moulin,Lombard,Kazakhstan,Femme,Bisexuel,191,73.9,bleu,True
-600,dparent,Émilie,Martin,Huet-sur-Étienne,Nouvelle-Zélande,Femme,Bisexuel,159,58.4,fuchsia,False
-601,theodoreguillaume,Thibaut,Dias,Gaudin,Papouasie-Nouvelle-Guinée,Femme,Hétéro,194,65.1,bleu,False
-602,anaisollivier,Joséphine,David,Gaudin,Ouzbékistan,Femme,Hétéro,195,64.5,fuchsia,False
-603,lucy37,André,Le Gall,Brunet,Mexique,Femme,Hétéro,161,65.4,sarcelle,True
-604,jeangilbert,Marcel,Vincent,Saint Emmanuel,"Corée, Sud",Homme,Autre,181,62.5,bordeaux,True
-605,brunraymond,Thibault,Blanchard,Jacquet,Nauru,Femme,Homosexuel,199,65.1,blanc,True
-606,philippineguerin,Suzanne,Chevallier,Sainte Louise,Taiwan,Autre,Homosexuel,173,86.8,fuchsia,True
-607,mathilde51,Alexandre,Hardy,Laporteboeuf,Lesotho,Homme,Homosexuel,164,96.3,blanc,True
-608,constance88,Éléonore,Rolland,Coste-sur-Collet,Chine (Rép. pop.),Homme,Bisexuel,161,62.7,bordeaux,False
-609,edavid,Raymond,Brunet,Legrand,Samoa,Homme,Hétéro,196,64.3,blanc,True
-610,rolandbigot,Joséphine,Albert,Leroux,Vietnam,Femme,Autre,163,64.1,gris,False
-611,techeradele,Gabrielle,Girard,Saint Nathalie,Rwanda,Autre,Hétéro,152,57.6,rouge,False
-612,agathe61,Eugène,Léger,Sainte Philippe,Territoires français du sud,Femme,Autre,187,61.3,vert,True
-613,francoisejourdan,Alex,Fournier,Carpentier,Suriname,Femme,Autre,160,98.1,fuchsia,False
-614,thomas62,Marianne,Joly,Dupuis-sur-Mer,Montserrat,Femme,Bisexuel,169,63.9,violet,False
-615,wcollin,Marianne,Pages,Normandnec,Pays-Bas,Femme,Bisexuel,166,58.0,sarcelle,True
-616,isaac92,Richard,Gaillard,Saint CharlesVille,Tunisie,Autre,Hétéro,152,81.7,fuchsia,True
-617,juliette64,André,Muller,BuissonBourg,Nepal,Femme,Homosexuel,168,70.8,noir,False
-618,philippine74,Océane,Pichon,Saint ArnaudeBourg,Japon,Autre,Homosexuel,189,54.5,fuchsia,True
-619,dguillou,Gilbert,Girard,Millet,Somalie,Autre,Autre,184,53.5,blanc,True
-620,mercierpaul,Guy,Colas,Legranddan,Arménie,Homme,Hétéro,174,74.2,cyan,False
-621,gerardchristiane,Charles,Tanguy,Saint Françoise,Hongrie,Femme,Autre,151,56.1,vert,True
-622,reneemartins,Audrey,Chauvin,Verdier-sur-Masse,Maroc,Femme,Hétéro,152,85.5,bleu,True
-623,droyer,Monique,Royer,Duhamel,Trinité et Tobago,Femme,Hétéro,169,85.6,fuchsia,True
-624,lecoqtimothee,Monique,Pelletier,Martins-sur-Gallet,Nouvelle-Zélande,Homme,Bisexuel,179,95.9,vert,True
-625,marcellegarnier,Laetitia,Muller,CarpentierBourg,Colombie,Autre,Homosexuel,152,86.3,vert,False
-626,emilemarques,Renée,Carlier,Paris,Côte d'Ivoire,Autre,Autre,153,52.2,bleu,True
-627,golivier,Josette,Dupré,Durand,Yougoslavie,Femme,Homosexuel,172,81.9,violet,False
-628,vpichon,Zacharie,Didier,Bernard,Corée du Nord,Autre,Bisexuel,174,80.4,fuchsia,False
-629,nicole44,William,Carre,Saint BenoîtVille,Maldives (Îles),Autre,Hétéro,174,65.6,fuchsia,False
-630,godardmarcelle,Maryse,Poulain,BernierBourg,Guatemala,Autre,Bisexuel,186,99.1,sarcelle,True
-631,emilielaroche,Aimée,Brun,Bessondan,Djibouti,Homme,Homosexuel,155,76.3,vert,False
-632,legrosmarie,Anaïs,Guyon,Boulaynec,Timor,Femme,Bisexuel,179,90.4,bordeaux,True
-633,tlefort,Mathilde,Aubert,Poulain,Trinité et Tobago,Autre,Bisexuel,169,53.4,blanc,True
-634,pasquierroland,Éric,Bazin,Noëlboeuf,République Dominicaine,Homme,Homosexuel,155,53.8,fuchsia,False
-635,leon80,Catherine,Pascal,Saint Aimé,Chili,Homme,Bisexuel,169,90.0,cyan,True
-636,elelievre,Élodie,Hoareau,Martinez,Bahrain,Femme,Autre,159,91.9,noir,False
-637,arnaude99,Guy,Roux,Saint Édouard,Bahrain,Autre,Hétéro,197,72.9,bleu,False
-638,brigitte88,Élodie,Barthelemy,MorenoBourg,Bolivie,Homme,Bisexuel,154,78.7,sarcelle,False
-639,diallobertrand,Denise,Munoz,Dupont,Lithuanie,Femme,Homosexuel,194,66.9,gris,False
-640,maurice72,Nathalie,Guillaume,Vallée-sur-Didier,Géorgie,Homme,Homosexuel,181,98.3,fuchsia,True
-641,ccordier,Claude,Teixeira,Loiseau,Jordanie,Autre,Hétéro,162,75.6,noir,False
-642,andrebenoit,Jacqueline,Roux,Thomas,La Barbad,Femme,Bisexuel,195,89.5,jaune,True
-643,emmanueljacob,Margot,Henry,Becker-sur-Muller,Belgique,Homme,Homosexuel,182,71.3,jaune,False
-644,agnes84,Margot,Delattre,Jacob-les-Bains,Micronésie (États fédérés de),Homme,Hétéro,172,59.7,jaune,False
-645,xlacombe,Daniel,Ferrand,Renard-sur-Joly,Burkina Faso,Femme,Hétéro,194,68.3,fuchsia,True
-646,bpayet,Agnès,Collin,Techer,Nicaragua,Autre,Hétéro,187,83.3,blanc,True
-647,danielle21,Bernadette,Barbier,Boulay-sur-Maury,Érythrée,Femme,Autre,160,71.5,gris,True
-648,colette09,Christiane,Thierry,Gomes,Bolivie,Homme,Bisexuel,182,52.5,sarcelle,True
-649,ogros,Anastasie,Didier,Sainte Françoise,Égypte,Autre,Homosexuel,192,72.8,gris,False
-650,martineauchristine,Simone,Coste,Tanguy,Timor,Homme,Homosexuel,186,93.6,blanc,False
-651,antoinette80,Matthieu,Delorme,Tanguy,Svalbard et Jan Mayen (Îles),Femme,Autre,174,83.2,sarcelle,True
-652,josette20,Yves,Vallet,Saint Noémi,Koweit,Femme,Bisexuel,191,69.6,sarcelle,True
-653,lrousset,Jules,Guichard,Hubert,Haïti,Femme,Homosexuel,185,68.5,fuchsia,True
-654,le-goffchristophe,Gabriel,Leleu,Robin,Soudan,Homme,Homosexuel,164,87.9,cyan,True
-655,gbernier,Augustin,Hoareau,Lacroix,Venezuela,Femme,Autre,156,77.9,jaune,True
-656,tristanollivier,Margot,Jourdan,Maillet-les-Bains,Vatican (Etat du),Autre,Autre,156,91.3,blanc,True
-657,bertrandbonnet,Frédérique,Pineau,Brunet,Nouvelle-Zélande,Homme,Homosexuel,188,72.0,bordeaux,False
-658,daniel97,Susanne,Gaudin,Sainte Franck,Chili,Homme,Bisexuel,161,58.8,bordeaux,True
-659,zblanc,Charles,Guibert,Paul-la-Forêt,Somalie,Femme,Autre,193,57.3,vert,False
-660,pereiramarguerite,Daniel,Poulain,Roche,Taiwan,Femme,Autre,189,86.0,blanc,False
-661,cecilelebrun,Jean,Perrier,GoncalvesBourg,Belize,Homme,Homosexuel,198,95.2,fuchsia,False
-662,jacques70,Édith,Brunel,Richard,Cocos (Îles),Homme,Autre,157,90.3,argent,False
-663,neveuaugustin,Richard,Boucher,Saint Isabelleboeuf,Falkland (Île),Femme,Homosexuel,191,61.4,noir,False
-664,raymond67,Juliette,Mahe,Moreno,Érythrée,Autre,Hétéro,186,52.7,noir,False
-665,bernardmenard,Adèle,Durand,Saint Gabriel,Myanmar,Femme,Homosexuel,164,52.6,argent,False
-666,pascaltheodore,Tristan,Lecoq,François,Suisse,Autre,Autre,167,87.6,bleu,False
-667,olivie13,Philippe,Perez,Lecoqdan,Groenland,Femme,Homosexuel,195,60.1,vert,True
-668,ttecher,Benoît,Delannoy,Berthelot-sur-Hardy,Bolivie,Femme,Autre,164,92.1,blanc,True
-669,gabriellebenard,Maurice,Goncalves,Arnaud,Myanmar,Autre,Autre,191,82.2,cyan,False
-670,susan56,Alice,Pelletier,Saint Alfred-les-Bains,Sahara Occidental,Homme,Bisexuel,154,51.9,vert,True
-671,dpoulain,Édouard,Lopez,Ferreira-sur-Mer,Japon,Homme,Bisexuel,163,63.2,bordeaux,True
-672,rogergimenez,Jules,Moulin,Georges-sur-Andre,Guatemala,Autre,Autre,173,99.2,gris,True
-673,marcgauthier,René,Moulin,Caron-sur-Baudry,Suriname,Autre,Bisexuel,185,75.1,cyan,True
-674,valletsimone,Dorothée,Grégoire,Delaunaynec,Zambie,Femme,Hétéro,158,94.9,jaune,False
-675,christellelaurent,Bernard,Monnier,Humbert,Espagne,Autre,Homosexuel,153,98.3,vert,False
-676,maillardcolette,Jacqueline,Dufour,Guyot,Ghana,Homme,Bisexuel,192,66.7,violet,True
-677,lucy10,Anne,Besnard,Benoit-sur-Mer,Saint-Marin (Rép. de),Homme,Bisexuel,189,51.4,argent,False
-678,bernadettenavarro,Édith,Leroux,Étienne,Lithuanie,Femme,Homosexuel,185,59.9,bordeaux,False
-679,bernarddenise,Noémi,Charrier,Vidal,Maurice,Homme,Homosexuel,186,50.7,blanc,True
-680,moniquethierry,Pénélope,Rousseau,LefèvreBourg,Luxembourg,Homme,Hétéro,167,63.0,jaune,True
-681,smarin,Marie,Camus,Delormenec,Nouvelle Calédonie,Autre,Bisexuel,173,99.9,violet,True
-682,stephaniehumbert,Margaud,Guillou,Brunel-la-Forêt,Venezuela,Homme,Autre,186,83.4,sarcelle,False
-683,guymorvan,Charles,Barbe,Sainte Roland,Afghanistan,Femme,Autre,159,89.7,jaune,False
-684,thibautdubois,Marthe,Normand,Leduc-sur-Giraud,Syrie,Femme,Autre,196,78.1,gris,True
-685,kchretien,Michelle,Masse,Perrin,El Salvador,Femme,Autre,192,73.6,violet,True
-686,suzannejacquet,Thibault,Dias,Lebon,Hong Kong,Femme,Bisexuel,173,91.3,rouge,True
-687,david50,Alice,Cohen,Ribeirodan,Ouzbékistan,Autre,Autre,199,56.0,blanc,False
-688,xmartel,Margot,Leclerc,Sainte Jérômedan,Arabie saoudite,Autre,Hétéro,185,98.7,fuchsia,True
-689,hardygregoire,Vincent,Chartier,Sainte Luc,Pitcairn (Îles),Femme,Hétéro,163,74.3,rouge,True
-690,augustebigot,Bertrand,Boutin,Fournier-sur-Mer,Finlande,Femme,Hétéro,183,84.3,cyan,True
-691,guillonaimee,Susan,Bonnet,PerezBourg,Chine (Rép. pop.),Femme,Hétéro,163,56.2,argent,False
-692,thierry83,Noël,Gilles,Maréchal,Cameroun,Femme,Bisexuel,158,58.0,cyan,False
-693,lucylaunay,Susanne,Rivière,Blin-sur-Reynaud,Mexique,Homme,Bisexuel,195,83.6,vert,False
-694,benardphilippe,Guy,Dumont,Saint Charlotte-les-Bains,Tadjikistan,Homme,Hétéro,162,58.4,sarcelle,True
-695,znguyen,Victoire,Masse,Masson,Swaziland,Homme,Autre,188,67.7,jaune,False
-696,christellerenaud,Patricia,Vincent,LeblancBourg,Suriname,Homme,Bisexuel,182,91.4,jaune,False
-697,pineaumichelle,Océane,Hoarau,Sainte Édith-sur-Mer,Saint-Kitts et Nevis,Autre,Bisexuel,164,96.2,noir,True
-698,bouvierarnaude,Charles,Weiss,Saint XavierVille,Irak,Homme,Autre,186,76.2,gris,True
-699,capucinelenoir,Marie,Jacquot,Saint Martin-sur-Mer,Turquie,Femme,Homosexuel,162,60.6,fuchsia,True
-700,hrousset,Yves,Vallet,Sainte Alex-sur-Mer,Norvège,Homme,Hétéro,200,89.9,rouge,True
+1,aguyot,Jérôme,Carre,Devaux,Chypre,Autre,Autre,167,62.4,bleu,True
+2,wagnerdenis,Michèle,Muller,Dupont,Pays-Bas,Autre,Homosexuel,200,54.8,rouge,False
+3,lemonnieragnes,Édith,Leroux,Guillot,Djibouti,Femme,Bisexuel,193,72.5,fuchsia,True
+4,sebastien29,Bertrand,Le Gall,Brunel,Équateur,Autre,Bisexuel,166,58.3,violet,False
+5,guibertanouk,Hélène,Adam,Barbe,Slovaquie,Femme,Autre,187,64.9,violet,False
+6,sylvieduval,Alix,Diaz,Raynaud,Norfolk (Îles),Homme,Bisexuel,182,72.5,violet,True
+7,robertchristiane,Emmanuelle,Vallée,Humbert-sur-Moreno,Saint-Kitts et Nevis,Homme,Autre,185,62.3,violet,True
+8,eugenepinto,Nathalie,Bertin,Gillet,Syrie,Femme,Bisexuel,199,53.2,argent,True
+9,hparent,Benjamin,Perret,Saint Isabelle-sur-Mer,Ouzbékistan,Autre,Autre,160,69.3,bleu,True
+10,alex60,Maggie,Bernard,DupuyVille,Papouasie-Nouvelle-Guinée,Femme,Hétéro,189,76.3,bordeaux,True
+11,valleejuliette,Sylvie,Rousset,Joubert,Benin,Autre,Homosexuel,192,71.9,argent,True
+12,margueritedijoux,Honoré,Rodrigues,Rossi-sur-Mer,Bangladesh,Homme,Homosexuel,181,82.9,bleu,False
+13,sylviefleury,Honoré,Clément,Bernard,Guinée,Homme,Homosexuel,159,60.2,rouge,False
+14,catherinevincent,Gabrielle,Auger,Antoine,Mongolie,Homme,Bisexuel,150,65.6,argent,True
+15,laurent67,Tristan,Vidal,Sainte Étienne,Monaco,Homme,Bisexuel,165,77.0,gris,False
+16,ffleury,Isabelle,Baudry,Clément-sur-Caron,Guyane,Autre,Bisexuel,168,65.1,blanc,False
+17,roger11,Odette,Roche,Alexandre,États-Unis,Autre,Homosexuel,195,84.4,noir,False
+18,paulettemarie,Marc,Lamy,Sainte Adrienne,Iran,Femme,Homosexuel,191,55.0,bordeaux,True
+19,imaillet,Jacqueline,Martinez,Lebretondan,Bouvet (Îles),Autre,Autre,175,57.8,violet,True
+20,lleduc,Geneviève,Maillet,Bertin,Géorgie,Femme,Hétéro,178,63.0,blanc,True
+21,isaactanguy,Antoinette,Fernandez,Fouquet,Guadeloupe,Autre,Homosexuel,167,53.5,sarcelle,True
+22,rle-goff,Henri,Pineau,Leduc,Guinée Equatoriale,Autre,Bisexuel,172,95.3,gris,True
+23,guilletconstance,Georges,Hoarau,Michaudboeuf,Lithuanie,Homme,Hétéro,197,51.2,fuchsia,True
+24,alexandriele-goff,Claudine,Rousset,Gilbertdan,Saint-Marin (Rép. de),Homme,Homosexuel,157,75.2,gris,False
+25,samsonphilippe,Patricia,Cohen,Saint Alex,Guatemala,Homme,Homosexuel,153,58.7,violet,False
+26,de-sousageorges,Hugues,Neveu,Saint Luc,Groenland,Autre,Hétéro,162,80.0,bordeaux,True
+27,valentine00,Martine,Bousquet,Pineau-sur-Hernandez,Myanmar,Homme,Autre,155,67.8,violet,False
+28,rhubert,Inès,Roussel,Tanguy-sur-Mer,Guatemala,Femme,Bisexuel,193,63.8,rouge,False
+29,obazin,Gilbert,Maillot,Faivredan,Rwanda,Autre,Hétéro,187,73.6,noir,True
+30,michel28,Christine,Robin,Delattre-sur-Sanchez,Guam,Homme,Hétéro,173,78.3,bordeaux,True
+31,goncalvesemile,Clémence,Mendès,Perrot-sur-Bruneau,Pakistan,Femme,Autre,168,66.3,blanc,True
+32,udelmas,Michel,Regnier,VerdierBourg,Brésil,Femme,Bisexuel,167,56.3,cyan,True
+33,jacqueline83,Jeanne,Guillou,Barbe,Sahara Occidental,Femme,Autre,170,75.9,blanc,False
+34,capucine15,Augustin,Leclerc,Dumont,Cocos (Îles),Homme,Homosexuel,157,58.7,noir,True
+35,agros,Maggie,De Sousa,Ramos,Botswana,Homme,Hétéro,161,99.2,gris,False
+36,gregoire04,Maurice,Reynaud,Fournier,Azerbaïdjan,Homme,Hétéro,192,79.1,gris,False
+37,aimee39,Eugène,Pires,Devaux,Gabon,Autre,Bisexuel,150,88.5,argent,True
+38,bigotmarine,Adrienne,Faivre,Girard,Samoa,Femme,Autre,180,59.7,jaune,True
+39,fdupuis,Luc,Lefort,Martins,Gambie,Autre,Bisexuel,154,96.2,violet,False
+40,imonnier,Camille,Laroche,Martinez-sur-Mer,Vatican (Etat du),Homme,Hétéro,174,79.2,violet,True
+41,alexandrie60,Michelle,Grondin,Sainte Jeanne-les-Bains,Pérou,Homme,Homosexuel,163,68.9,argent,False
+42,baudrycharlotte,Valentine,Mallet,Chevallier-sur-Mer,Kenya,Homme,Homosexuel,191,95.8,bordeaux,True
+43,navarronoel,Gérard,Grenier,Pelletier,Espagne,Femme,Homosexuel,198,68.6,bordeaux,False
+44,christianedupuis,Amélie,Samson,Vallée,Micronésie (États fédérés de),Homme,Hétéro,153,93.0,rouge,False
+45,hhoareau,Gilles,Lemonnier,Martineau-sur-Mer,Guinée,Femme,Hétéro,178,84.2,vert,False
+46,ydos-santos,Victoire,Hernandez,Vasseur,Kenya,Femme,Hétéro,190,75.9,violet,True
+47,michelle35,Émile,Payet,Mary-la-Forêt,Ouganda,Femme,Hétéro,188,77.9,rouge,True
+48,bertrandlecoq,Nathalie,Delmas,Sainte Antoine,Afrique du sud,Femme,Homosexuel,168,63.7,bordeaux,True
+49,annejacob,Patrick,Maillet,Saint BenoîtVille,Territoires français du sud,Femme,Homosexuel,183,87.6,argent,False
+50,salmonmartin,Lucie,Huet,Marin,Féroé (Îles),Autre,Bisexuel,184,63.6,gris,True
+51,peltiersebastien,Thibault,Chrétien,Sainte Louise,Tunisie,Femme,Hétéro,193,61.5,bleu,True
+52,nathalie77,Marcelle,Grondin,Saint Luc-la-Forêt,Vierges (Îles),Femme,Homosexuel,151,50.7,rouge,True
+53,maryserodriguez,Thierry,Gilbert,Weber-sur-Jacquot,Palau,Femme,Bisexuel,180,97.9,bleu,True
+54,martinezgenevieve,Christine,Bouvet,Saint Yves,Albanie,Autre,Bisexuel,150,95.1,blanc,False
+55,aimeealves,Margaret,Bègue,Maury,Honduras,Autre,Bisexuel,172,83.2,jaune,False
+56,celina08,Lucas,Paul,HubertBourg,République tchèque,Femme,Homosexuel,174,65.7,blanc,False
+57,martinadrienne,Denis,Legros,Vidal-sur-Evrard,Guadeloupe,Femme,Hétéro,174,66.1,bleu,True
+58,suzanneguyot,Manon,Denis,Guillet,Zambie,Homme,Hétéro,156,93.0,argent,True
+59,maryse76,Brigitte,Pruvost,Launay,États-Unis,Homme,Hétéro,165,58.4,violet,False
+60,glesage,Richard,Berger,Mauricenec,Nauru,Femme,Homosexuel,163,79.5,fuchsia,True
+61,fontainegenevieve,Roland,Roussel,LaunayBourg,Koweit,Autre,Bisexuel,194,78.5,sarcelle,False
+62,udupre,Véronique,Lelièvre,Saint Alice,Nigeria,Homme,Homosexuel,199,57.9,bleu,True
+63,gabrielle49,Zoé,Humbert,Antoine-sur-Dupuis,Canada,Homme,Homosexuel,154,73.6,vert,True
+64,legendrebrigitte,Louis,Regnier,Le GallBourg,Myanmar,Homme,Autre,166,96.2,blanc,False
+65,lefebvretheophile,Gabrielle,Weber,Le Gall-sur-Faivre,Suisse,Femme,Autre,195,67.4,bordeaux,False
+66,emmanuelpineau,Christine,Mercier,Sainte Bertranddan,Ethiopie,Homme,Hétéro,185,70.2,vert,False
+67,oceanelebrun,Michelle,Pasquier,Saint Patricia,Slovaquie,Femme,Homosexuel,151,62.1,rouge,False
+68,driou,Stéphanie,Gros,Sainte Gérard,Indonésie,Femme,Hétéro,174,88.5,violet,False
+69,maggieaubry,Marc,Lebrun,Weiss,Mozambique,Femme,Homosexuel,182,60.4,rouge,False
+70,guillaume82,Charlotte,Bouvier,Bourgeoisdan,Venezuela,Homme,Autre,158,81.8,bleu,True
+71,vperret,Emmanuel,Dijoux,Saint Claudine,Nouvelle Calédonie,Autre,Hétéro,199,70.4,noir,True
+72,iblondel,Agnès,Martin,Sainte Valérie-la-Forêt,São Tomé et Príncipe (Rép.),Autre,Autre,173,93.5,bleu,True
+73,noemi14,Célina,Louis,Sainte Philippeboeuf,Bermudes (Les),Femme,Bisexuel,162,85.3,noir,False
+74,noemilopez,Alex,Imbert,Pierreboeuf,Gambie,Autre,Hétéro,155,54.8,rouge,True
+75,emmanuel87,Maggie,Pruvost,Saint Honoré-les-Bains,Samoa,Femme,Bisexuel,200,92.9,rouge,False
+76,denise80,Zoé,Laurent,Vasseurboeuf,Nouvelle Calédonie,Autre,Bisexuel,181,55.6,fuchsia,False
+77,eugene46,Andrée,Dufour,Saint Grégoiredan,Groenland,Homme,Homosexuel,175,60.9,argent,True
+78,elebreton,Sébastien,Marin,CouturierVille,Belgique,Autre,Hétéro,153,95.8,argent,False
+79,lefebvretristan,François,Fontaine,Sainte Eugèneboeuf,Liban,Femme,Bisexuel,162,91.1,jaune,True
+80,tfontaine,Édouard,Le Gall,Torres,Malaisie,Homme,Homosexuel,173,83.2,gris,True
+81,charles22,Véronique,Lenoir,Lecoqdan,Luxembourg,Femme,Homosexuel,166,51.8,noir,False
+82,legrandjulie,Isabelle,Roussel,Perez,Estonie,Femme,Bisexuel,187,70.6,jaune,False
+83,therese18,Frédéric,Allain,Carpentier-sur-Pineau,Géorgie,Autre,Hétéro,188,54.1,noir,False
+84,robertle-gall,Éric,Jacquot,Monnierboeuf,Kirghizistan,Femme,Hétéro,184,71.5,blanc,False
+85,tpages,Agnès,Chauvin,ChauvinBourg,Micronésie (États fédérés de),Autre,Autre,190,55.1,bleu,True
+86,veronique13,Émile,Guyon,Sainte Chantal,Royaume-Uni,Femme,Hétéro,166,62.8,argent,True
+87,nmerle,Susanne,Buisson,Lombard,Nauru,Homme,Hétéro,151,51.2,sarcelle,True
+88,leon03,Sophie,Chartier,Allard,Trinité et Tobago,Autre,Homosexuel,186,81.0,bordeaux,False
+89,vfleury,Lucie,Charles,Sainte Brigitte,Jordanie,Femme,Bisexuel,176,71.9,blanc,False
+90,benardlaurence,Nicolas,Lebreton,Legendrenec,Belize,Autre,Bisexuel,196,75.7,rouge,True
+91,rossigilbert,Bernard,Germain,Rémy,Cocos (Îles),Femme,Bisexuel,151,76.7,jaune,True
+92,susan36,Thibaut,Tessier,Gros,Norvège,Femme,Bisexuel,187,76.3,violet,True
+93,louistimothee,Arthur,Toussaint,Coste,Belize,Femme,Autre,165,84.9,blanc,False
+94,gabrielle09,Alexandrie,Vaillant,DuboisVille,Bermudes (Les),Homme,Bisexuel,162,94.7,fuchsia,True
+95,frederiquelebon,Christelle,Delaunay,Hardy,Pays-Bas,Homme,Hétéro,174,52.1,gris,True
+96,yschneider,Thibaut,Vincent,Weberboeuf,Brunei,Femme,Autre,184,97.9,vert,False
+97,marquesluc,Nath,Petitjean,Dupuisdan,Guadeloupe,Homme,Bisexuel,152,67.2,cyan,False
+98,marechallucy,Constance,Peron,Barre-sur-Vincent,Guatemala,Autre,Bisexuel,177,95.3,vert,True
+99,charleschauvet,Christophe,Descamps,Godard-sur-Mer,États-Unis,Homme,Bisexuel,183,57.2,vert,False
+100,thierry27,Louise,Chauveau,Vidal-les-Bains,Turkménistan,Femme,Hétéro,179,63.8,bleu,False

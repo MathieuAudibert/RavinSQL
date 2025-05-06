@@ -38,6 +38,7 @@ CREATE TABLE HistoriqueAchat (
     id_h SERIAL PRIMARY KEY,
     id_utilisateur INT,
     site VARCHAR(100),
+    prix FLOAT,
     description VARCHAR(100),
     date TIMESTAMP,
     FOREIGN KEY (id_utilisateur) REFERENCES Utilisateur(id_u)

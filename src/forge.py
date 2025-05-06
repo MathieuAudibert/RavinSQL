@@ -105,11 +105,12 @@ def create_dependent_data(cursor, lieu_ids, utilisateur_ids, motcle_ids, reseau_
         site = fake.url()
         description = fake.sentence()
         date = fake.date_time_this_decade()
+        prix = round(random.uniform(10, 100), 2)
 
         cursor.execute("""
-            INSERT INTO HistoriqueAchat (id_utilisateur, site, description, date)
-            VALUES (%s, %s, %s, %s)
-        """, (utilisateur_id, site, description, date))
+            INSERT INTO HistoriqueAchat (id_utilisateur, site, prix, description, date)
+            VALUES (%s, %s, %s, %s, %s)
+        """, (utilisateur_id, site, prix, description, date))
 
     num_activites = 200
     for i in range(num_activites):
