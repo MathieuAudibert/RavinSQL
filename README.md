@@ -11,7 +11,8 @@
  ┣ 📂src
  ┃ ┣ 📂csv ==> les fichier csv avec les données a ingerer dans la bdd
  ┃ ┣ 📜forge.py ==> generateur de données
- ┃ ┗ 📜requetes_ravin.sql ==> les 20-25 requetes demandées dans le tp
+ ┃ ┣ 📜requetes_ravin.sql ==> les 20-25 requetes demandées dans le tp
+ ┃ ┗ 📜truncate.sql ==> vide les données des tables
  ┣ 📜bdd.sql ==> la bdd
  ┣ 📜README.md
  ┗ 📜requirements.txt ==> requis pour le python
