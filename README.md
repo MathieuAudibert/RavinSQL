@@ -1,17 +1,20 @@
 # Arborescence :
 
 ```
-📦doc
- ┣ 📂requetes
- ┃ ┗ 📂v2 ==> images
- ┣ 📜dico.md ==> dctionnaire de données (description, type...)
- ┣ 📜mcd.png ==> modele conceptuel de données
- ┗ 📜raw.png ==> schéma simplifié
- 📦src
- ┣ 📂csv ==> les fichier csv avec les données a ingerer
- ┣ 📜forge.py ==> generateur de données
- ┗ 📜requetes_ravin.sql ==> les 20-25 requetes demandées par l'exo
-
+📦RavinSQL
+ ┣ 📂doc
+ ┃ ┣ 📂requetes
+ ┃ ┃ ┗ 📂v2 ==> images
+ ┃ ┣ 📜dico.md ==> dctionnaire de données (description, type...)
+ ┃ ┣ 📜mcd.png ==> modele conceptuel de données
+ ┃ ┗ 📜raw.png ==> schéma simplifié
+ ┣ 📂src
+ ┃ ┣ 📂csv ==> les fichier csv avec les données a ingerer dans la bdd
+ ┃ ┣ 📜forge.py ==> generateur de données
+ ┃ ┗ 📜requetes_ravin.sql ==> les 20-25 requetes demandées dans le tp
+ ┣ 📜bdd.sql ==> la bdd
+ ┣ 📜README.md
+ ┗ 📜requirements.txt ==> requis pour le python
 ```
 
 # Run :
