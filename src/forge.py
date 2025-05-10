@@ -21,12 +21,13 @@ def create_and_get_ids(cursor, table_name, num_records):
             poids = round(random.uniform(50, 100), 1)
             couleur_y = fake.safe_color_name()
             est_abonne = fake.boolean(chance_of_getting_true=50)
+            date_crea = fake.date_time_this_decade()
 
             cursor.execute("""
-                INSERT INTO Utilisateur (pseudo, prenom, nom, ville, pays, genre, orientation, taille, poids, couleur_y, est_abonne)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                INSERT INTO Utilisateur (pseudo, prenom, nom, ville, pays, genre, orientation, taille, poids, couleur_y, est_abonne, date_crea)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                 RETURNING id_u
-            """, (pseudo, prenom, nom, ville, pays, genre, orientation, taille, poids, couleur_y, est_abonne))
+            """, (pseudo, prenom, nom, ville, pays, genre, orientation, taille, poids, couleur_y, est_abonne, date_crea))
 
             id_value = cursor.fetchone()[0]
             ids.append(id_value)
