@@ -10,7 +10,7 @@ CREATE TABLE Utilisateur (
     taille INT,
     poids FLOAT,
     couleur_y VARCHAR(10),
-    date_crea TIMLE DEFAULT CURRENT_TIMESTAMP,
+    date_crea TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     est_abonne BOOLEAN DEFAULT FALSE
 );
 
