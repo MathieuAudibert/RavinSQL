@@ -30,8 +30,8 @@ SELECT site, COUNT(id_h) FROM HistoriqueAchat GROUP BY site ORDER BY COUNT(id_h)
 -- recuperer le site ou les utilisateurs font le plus d'achats V
 
 SELECT u1.pseudo AS utilisateur1, u2.pseudo AS utilisateur2
-FROM Utilisateur u1
-JOIN Utilisateur u2 ON u1.id_u <> u2.id_u
+FROM Utilisateur AS u1
+JOIN Utilisateur AS u2 ON u1.id_u <> u2.id_u
 JOIN Interet i1 ON u1.id_u = i1.id_utilisateur
 JOIN Interet i2 ON u2.id_u = i2.id_utilisateur AND i1.id_evenement = i2.id_evenement;
 -- recuperer les utilisateurs qui ont des interets communs V
@@ -59,18 +59,18 @@ JOIN Lieu AS l ON e.lieu = l.id_l GROUP BY e.date ORDER BY mois DESC;
 -- les type d'evenements les plus recurents au cours de l'année V
 
 SELECT u.pseudo
-FROM Utilisateur u
-WHERE (SELECT COUNT(*) FROM Participe p WHERE p.id_utilisateur = u.id_u) > (SELECT AVG(participations) FROM (SELECT COUNT(*) AS participations FROM Participe GROUP BY id_utilisateur));
+FROM Utilisateur AS u
+WHERE (SELECT COUNT(*) FROM Participe AS p WHERE p.id_utilisateur = u.id_u) > (SELECT AVG(participations) FROM (SELECT COUNT(*) AS participations FROM Participe GROUP BY id_utilisateur));
 -- recuperer les utilisateurs qui participent plus que la moyenne des utilisateurs V
 
 SELECT u.pseudo
-FROM Utilisateur u
-WHERE NOT EXISTS (SELECT 1 FROM Evenement e WHERE NOT EXISTS (SELECT 1 FROM Participe p WHERE p.id_utilisateur = u.id_u AND p.id_evenement = e.id_e));
+FROM Utilisateur AS u
+WHERE NOT EXISTS (SELECT 1 FROM Evenement e WHERE NOT EXISTS (SELECT 1 FROM Participe AS p WHERE p.id_utilisateur = u.id_u AND p.id_evenement = e.id_e));
 --  recuperer les utilisateurs qui participent plus que la moyenne des utilisateurs sous requetes corrélées V
 
 SELECT u.pseudo
-FROM Utilisateur u
-JOIN Participe p ON u.id_u = p.id_utilisateur
+FROM Utilisateur AS u
+JOIN Participe AS p ON u.id_u = p.id_utilisateur
 GROUP BY u.id_u
 HAVING COUNT(DISTINCT p.id_evenement) = (SELECT COUNT(*) FROM Evenement);
 --  recuperer les utilisateurs qui participent plus que la moyenne des utilisateurs avec aggrégation V
@@ -89,8 +89,7 @@ WITH RECURSIVE disponible AS (
             lieu,
             date,
             ROW_NUMBER() OVER (PARTITION BY lieu ORDER BY date) AS rn
-        FROM
-            Evenement
+        FROM Evenement
     ) ranked
     WHERE rn = 1
 
@@ -99,10 +98,8 @@ WITH RECURSIVE disponible AS (
     SELECT
         e.lieu AS id_l,
         e.date AS prochaine_date
-    FROM
-        Evenement e
-    JOIN
-        disponible d ON e.lieu = d.id_l AND e.date > d.prochaine_date
+    FROM Evenement AS e
+    JOIN disponible d ON e.lieu = d.id_l AND e.date > d.prochaine_date
     WHERE
         e.date = (
             SELECT MIN(date)
@@ -142,9 +139,9 @@ WHERE rang <= 10;
 -- recuperer le top 10 des mots les plus tagués par mois V
 
 SELECT u.pseudo, COUNT(e.id_e) AS nombre_evenements
-FROM Utilisateur u
-JOIN Participe p ON u.id_u = p.id_utilisateur
-JOIN Evenement e ON p.id_evenement = e.id_e
+FROM Utilisateur AS u
+JOIN Participe AS p ON u.id_u = p.id_utilisateur
+JOIN Evenement AS e ON p.id_evenement = e.id_e
 GROUP BY u.pseudo;
 -- recuperer le nombre d'evenements auxquels chaque utilisateur a participé V
 
@@ -165,14 +162,14 @@ GROUP BY u.pseudo ORDER BY likes DESC;
 -- recuperer le nombre de likes de chaque utilisateur V
 
 SELECT DISTINCT l.adresse
-FROM Lieu l
+FROM Lieu AS l
 JOIN Evenement e ON l.id_l = e.lieu;
 -- recuperer les adresses des lieux qui ont eu des evenements V
 
 SELECT u.pseudo
-FROM Utilisateur u
-JOIN Participe p ON u.id_u = p.id_utilisateur
-JOIN Evenement e ON p.id_evenement = e.id_e
+FROM Utilisateur AS u
+JOIN Participe AS p ON u.id_u = p.id_utilisateur
+JOIN Evenement AS e ON p.id_evenement = e.id_e
 GROUP BY u.pseudo
 HAVING COUNT(DISTINCT e.lieu) > 1;
 -- recuperer les utilisateurs qui ont participé à des evenements dans plusieurs lieux V
