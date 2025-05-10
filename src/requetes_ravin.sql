@@ -55,12 +55,12 @@ GROUP BY l.adresse ORDER BY evenements DESC LIMIT 10;
 -- les 10 villes avec le plus d'evenements V
 
 SELECT EXTRACT(MONTH FROM e.date) as mois, COUNT(e.id_e) as evenements FROM Evenement AS e 
-JOIN Lieu AS l ON e.lieu = l.id_l GROUP BY l.type ORDER BY mois DESC;
+JOIN Lieu AS l ON e.lieu = l.id_l GROUP BY e.date ORDER BY mois DESC;
 -- les type d'evenements les plus recurents au cours de l'année V
 
 SELECT u.pseudo
 FROM Utilisateur u
-WHERE (SELECT COUNT(*) FROM Participe p WHERE p.id_utilisateur = u.id_u) > (SELECT AVG(participations) FROM (SELECT COUNT(*) AS participations FROM Participe GROUP BY id_utilisateur) AS subquery);
+WHERE (SELECT COUNT(*) FROM Participe p WHERE p.id_utilisateur = u.id_u) > (SELECT AVG(participations) FROM (SELECT COUNT(*) AS participations FROM Participe GROUP BY id_utilisateur));
 -- recuperer les utilisateurs qui participent plus que la moyenne des utilisateurs V
 
 SELECT u.pseudo
