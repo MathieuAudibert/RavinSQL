@@ -29,12 +29,6 @@ ORDER BY u.genre DESC;
 SELECT site, COUNT(id_h) FROM HistoriqueAchat GROUP BY site ORDER BY COUNT(id_h) DESC;
 -- recuperer le site ou les utilisateurs font le plus d'achats V
 
-SELECT * FROM Utilisateur;
--- recuperer les informations des utilisateurs qui font le plus d'achats sur le site ou les utilisateurs font le plus d'achats X
-
-SELECT * FROM Utilisateur;
--- recuperer une correlation entre les utilisateurs qui 
-
 SELECT u1.pseudo AS utilisateur1, u2.pseudo AS utilisateur2
 FROM Utilisateur u1
 JOIN Utilisateur u2 ON u1.id_u <> u2.id_u
@@ -42,10 +36,12 @@ JOIN Interet i1 ON u1.id_u = i1.id_utilisateur
 JOIN Interet i2 ON u2.id_u = i2.id_utilisateur AND i1.id_evenement = i2.id_evenement;
 -- recuperer les utilisateurs qui ont des interets communs V
 
-SELECT (COUNT(DISTINCT m.id_utilisateur1, m.id_utilisateur2)::FLOAT / COUNT(DISTINCT l.id_utilisateur1, l.id_utilisateur2)) * 100 AS taux
+SELECT
+    (COUNT(DISTINCT (m.id_utilisateur1, m.id_utilisateur2))::FLOAT /
+     COUNT(DISTINCT (l.id_utilisateur1, l.id_utilisateur2))) * 100 AS taux
 FROM Likes AS l
 LEFT JOIN Match m ON (l.id_utilisateur1 = m.id_utilisateur1 AND l.id_utilisateur2 = m.id_utilisateur2);
--- taux de conversion des likes en matchs X
+-- taux de conversion des likes en matchs V
 
 SELECT DATE_TRUNC('month', date) AS mois, COUNT(id_h), SUM(prix) FROM HistoriqueAchat GROUP BY mois ORDER BY mois; 
 -- evolution des achats au cours des mois V
@@ -85,30 +81,65 @@ SELECT pseudo FROM Utilisateur WHERE poids IS NOT NULL AND poids > 70;
 -- recuperer les utilisateurs qui pèsent plus de 70kg avec gestion des nulls V
 
 WITH RECURSIVE disponible AS (
-    SELECT id_l, MIN(date) AS prochaine_date
-    FROM Evenement
-    GROUP BY id_l
+    SELECT
+        lieu AS id_l,
+        date AS prochaine_date
+    FROM (
+        SELECT
+            lieu,
+            date,
+            ROW_NUMBER() OVER (PARTITION BY lieu ORDER BY date) AS rn
+        FROM
+            Evenement
+    ) ranked
+    WHERE rn = 1
+
     UNION ALL
-    SELECT e.id_l, MIN(e.date)
-    FROM Evenement e
-    JOIN disponible d ON e.id_l = d.id_l AND e.date > d.prochaine_date
-    GROUP BY e.id_l
+
+    SELECT
+        e.lieu AS id_l,
+        e.date AS prochaine_date
+    FROM
+        Evenement e
+    JOIN
+        disponible d ON e.lieu = d.id_l AND e.date > d.prochaine_date
+    WHERE
+        e.date = (
+            SELECT MIN(date)
+            FROM Evenement
+            WHERE lieu = e.lieu AND date > d.prochaine_date
+        )
 )
-SELECT id_l, prochaine_date FROM disponible WHERE prochaine_date > NOW() ORDER BY prochaine_date LIMIT 1;
+SELECT id_l, prochaine_date 
+FROM disponible
+WHERE prochaine_date > NOW()
+ORDER BY prochaine_date
+LIMIT 1;
 -- recuperer le prochain evenement d'un lieu X
 
-SELECT pseudo, mot, RANK() OVER (PARTITION BY DATE_TRUNC('month', date) ORDER BY COUNT(*) DESC) AS rang
-FROM (
-    SELECT u.pseudo, m.mot, COUNT(*)
-    FROM Utilisateur u
-    JOIN Tag t ON u.id_u = t.id_utilisateur
-    JOIN MotCle m ON t.id_motcle = m.id_m
-    JOIN ActiviteReseau ar ON u.id_u = ar.id_utilisateur
-    WHERE ar.type = 'nope'
-    GROUP BY u.pseudo, m.mot, DATE_TRUNC('month', ar.date)
-) AS subquery
+WITH rangs AS (
+    SELECT
+        pseudo,
+        mot,
+        RANK() OVER (PARTITION BY DATE_TRUNC('month', date) ORDER BY count DESC) AS rang
+    FROM (
+        SELECT
+            u.pseudo,
+            m.mot,
+            COUNT(*) as count,
+            ar.date
+        FROM Utilisateur AS u
+        JOIN Tag AS t ON u.id_u = t.id_utilisateur
+        JOIN MotCle AS m ON t.id_motcle = m.id_m
+        JOIN ActiviteReseau AS ar ON u.id_u = ar.id_utilisateur
+        WHERE ar.type = 'nope'
+        GROUP BY u.pseudo, m.mot, DATE_TRUNC('month', ar.date), ar.date
+    )
+)
+SELECT pseudo, mot, rang
+FROM rangs
 WHERE rang <= 10;
--- recuperer le top 10 des mots les plus tagués par mois X
+-- recuperer le top 10 des mots les plus tagués par mois V
 
 SELECT u.pseudo, COUNT(e.id_e) AS nombre_evenements
 FROM Utilisateur u
@@ -146,8 +177,9 @@ GROUP BY u.pseudo
 HAVING COUNT(DISTINCT e.lieu) > 1;
 -- recuperer les utilisateurs qui ont participé à des evenements dans plusieurs lieux V
 
-SELECT DATE_TRUNC('month', date_inscription) AS mois, COUNT(*) AS nouveaux_utilisateurs
+
+SELECT DATE_TRUNC('month', date_crea) AS mois, COUNT(*) AS nouveaux_utilisateurs
 FROM Utilisateur
 GROUP BY mois
 ORDER BY mois;
--- recuperer le nombre de nouveaux utilisateurs par mois X
+-- recuperer le nombre de nouveaux utilisateurs par mois V
