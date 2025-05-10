@@ -177,7 +177,6 @@ GROUP BY u.pseudo
 HAVING COUNT(DISTINCT e.lieu) > 1;
 -- recuperer les utilisateurs qui ont participé à des evenements dans plusieurs lieux V
 
-
 SELECT DATE_TRUNC('month', date_crea) AS mois, COUNT(*) AS nouveaux_utilisateurs
 FROM Utilisateur
 GROUP BY mois
