@@ -1,101 +1,101 @@
 id_l,nom,adresse,type
-1,Le Gall Monnier S.A.R.L.,"83, rue de Benard
-54450 Nguyen",Parc
-2,Pierre,"34, rue Stéphanie Texier
-47335 Saint Thibault",Salle de concert
-3,Guyot SA,"rue Alphonse Gillet
-64828 Payet",Parc
-4,Millet Maury SARL,"19, avenue Robin
-02369 Roger-sur-Pires",Bar
-5,Barre Barre et Fils,"60, rue Nathalie Andre
-67344 Leduc",Bar
-6,Samson Blanc SA,"346, rue Le Goff
-93235 ImbertBourg",Restaurant
-7,Costa,"368, rue Émile Maillard
-47264 Bouchet",Parc
-8,Rey Besnard SARL,"69, chemin de Bouvet
-04859 Bouvier-sur-Regnier",Parc
-9,Schneider et Fils,"59, boulevard Mace
-12206 JacquotVille",Parc
-10,Pinto Lefèvre S.A.,"18, rue de Andre
-71104 Ponsnec",Restaurant
-11,Lefèvre Laurent SARL,"86, rue Chauvet
-66394 Monnier",Salle de concert
-12,Albert,"9, rue Aurore Maillot
-95967 Sainte Simone-sur-Mer",Salle de concert
-13,Durand,"48, boulevard Chauvin
-93324 Pelletier-sur-Besnard",Bar
-14,Aubry,"1, rue Lévy
-97138 Sainte Arnaude",Salle de concert
-15,Chevallier S.A.R.L.,"97, rue de Morin
-68268 Olivier-les-Bains",Salle de concert
-16,Jacquet et Fils,"93, boulevard Lenoir
-72283 Pelletierboeuf",Bar
-17,Poulain Perez SA,"25, chemin de Joly
-82250 Joseph",Parc
-18,Ruiz S.A.,"148, rue Alphonse Benoit
-41342 Ramos",Parc
-19,Boucher,"chemin Suzanne Hernandez
-34165 Jacob",Restaurant
-20,Bodin Mercier et Fils,"51, rue Guérin
-52248 MathieuBourg",Parc
-21,Pages SARL,"rue de Ferrand
-44246 Lamynec",Parc
-22,Marchand Barre S.A.S.,"93, rue Éléonore Rousset
-53878 Techer",Bar
-23,Simon,"72, rue de Gay
-31911 Barbe",Restaurant
-24,Blanc S.A.S.,"34, rue Gallet
-11172 Guillou",Bar
-25,Blanchet Martel S.A.S.,"4, avenue Lagarde
-43479 Mercier",Salle de concert
-26,Marques et Fils,"97, avenue Hugues Dijoux
-40649 Benoit",Salle de concert
-27,Delorme,"88, boulevard de Poirier
-52419 LefebvreBourg",Salle de concert
-28,Rousset,"39, boulevard Valentin
-64754 Dos Santos",Salle de concert
-29,Maillet et Fils,"49, chemin Dias
-36838 Noël",Salle de concert
-30,Aubert,"34, rue de Jacquet
-83636 Schmittdan",Restaurant
-31,Leduc,"43, rue Paul Hervé
-95579 Saint Michelleboeuf",Restaurant
-32,Nguyen Joubert SARL,"boulevard Claude Leduc
-39919 Torres-sur-Sauvage",Salle de concert
-33,Lesage,"5, avenue Guillaume Poirier
-30728 Coste",Bar
-34,Guillot,"45, rue Berthelot
-56310 Sainte SusanBourg",Bar
-35,Lombard et Fils,"66, avenue Simone Pruvost
-72669 Sainte Danielle",Bar
-36,Hervé Aubert et Fils,"94, chemin Huet
-82963 Saint Bernard",Bar
-37,Alves Laporte S.A.,"64, rue de Gimenez
-57587 Saint Geneviève-sur-Mer",Salle de concert
-38,Laroche,"4, rue de Garnier
-16527 Bouchet-sur-Barbier",Restaurant
-39,Charles,"89, avenue Alexandria Roussel
-70593 Joly",Parc
-40,Verdier S.A.R.L.,"63, rue Jean Maillard
-49260 Le Rouxnec",Bar
-41,Bonnet,"30, rue Amélie Blot
-29305 Sainte Nicole-sur-Mer",Bar
-42,Deschamps,"86, boulevard Agnès Lelièvre
-31629 Maurice-sur-Barbe",Restaurant
-43,Fontaine,"27, rue Jean
-87927 Saint Jérômenec",Salle de concert
-44,Guillaume,"31, rue de Seguin
-01191 Michaud",Restaurant
-45,Chauvin,"67, rue de Vidal
-83753 Saint Laetitia",Restaurant
-46,Carpentier SA,"85, avenue de Denis
-47379 Voisin",Restaurant
-47,Jacquet S.A.,"197, rue Eugène Rousset
-49698 Lenoir",Bar
-48,Barbe,"58, rue de Auger
-26816 Henry",Salle de concert
-49,Wagner SA,"88, rue Bouvier
-68267 Clerc",Parc
-50,Grégoire,"76, rue de Vincent
-79302 Sainte Alexdan",Restaurant
+101,Le Goff Blanchet SARL,"rue Brunet
+89962 Jacquet",Salle de concert
+102,Sauvage Étienne SA,"57, chemin Bernard
+82202 Goncalvesboeuf",Salle de concert
+103,Pages,"chemin Guillaume Renaud
+21174 Weiss",Bar
+104,Charpentier,"14, rue Pires
+92141 Guillounec",Restaurant
+105,Joly,"15, chemin de Ruiz
+22358 Saint Philippine",Salle de concert
+106,Mercier,"191, avenue Hernandez
+90879 Georges",Salle de concert
+107,Boyer,"11, boulevard André Collin
+07634 Guyot-la-Forêt",Salle de concert
+108,Hernandez Lefebvre et Fils,"90, rue Roger Costa
+66999 Lopez-sur-Huet",Bar
+109,Brunet,"3, avenue Philippine Philippe
+51681 Sainte Stéphanie",Restaurant
+110,François S.A.,"67, avenue Loiseau
+87540 Saint Laurentboeuf",Bar
+111,Valette S.A.,"rue de Tessier
+20706 Potier",Bar
+112,Fernandes Caron SARL,"rue Chauveau
+91795 Bouchet",Parc
+113,Hardy Lelièvre S.A.S.,"36, avenue Léon Boulay
+86298 Nicolas-les-Bains",Bar
+114,Bernard Bourgeois et Fils,"59, rue Munoz
+77230 Saint Martin",Salle de concert
+115,Vallée Hoarau et Fils,"60, avenue Christophe Gros
+31423 Schmitt-sur-Chevallier",Parc
+116,Hoareau,"83, chemin Allain
+52912 Saint Gilbert",Restaurant
+117,Guillet,"479, boulevard Claude Delannoy
+54329 Dupont",Parc
+118,Michaud Henry SA,"60, rue Bertrand Rémy
+10868 Collin",Salle de concert
+119,Lesage,"27, rue de Adam
+34467 Guibert",Parc
+120,Colas,"48, rue Rodriguez
+97385 Sainte Gérard",Bar
+121,Rey SARL,"47, chemin Tessier
+38353 ValléeVille",Restaurant
+122,Samson S.A.S.,"boulevard Bonnet
+19163 AdamBourg",Salle de concert
+123,Brunel Texier et Fils,"249, rue Michelle Peron
+05976 Saint Marie",Restaurant
+124,Pereira S.A.S.,"31, avenue André Leconte
+44602 Vallet",Bar
+125,Rémy Guérin et Fils,"41, rue Sabine Chevallier
+47908 Bourdon",Bar
+126,Allain,"98, avenue Lemonnier
+71948 Roche",Bar
+127,Delaunay S.A.S.,"555, rue de Laine
+58445 Saint Adélaïde-sur-Mer",Restaurant
+128,Faure,"750, rue de Laurent
+57947 Goncalves",Restaurant
+129,Gay,"19, boulevard Gilbert
+79813 GuérinBourg",Salle de concert
+130,Garnier SA,"avenue de Buisson
+45489 Sainte Édith",Parc
+131,Blondel S.A.,"11, rue Giraud
+97654 Saint PénélopeVille",Parc
+132,Daniel Legendre SARL,"chemin Allain
+29920 Besson",Parc
+133,Regnier Toussaint S.A.,"7, rue Dias
+85325 Poirier",Bar
+134,Marchal S.A.,"87, rue Thibaut Lombard
+51152 Lévêque",Parc
+135,Lévy,"282, chemin Chauvet
+97120 Joubertdan",Parc
+136,Pons Bouvier S.A.,"5, boulevard de Durand
+16943 MassonBourg",Parc
+137,Nguyen SA,"17, boulevard Paul Teixeira
+10661 Valletdan",Restaurant
+138,Charrier,"75, rue Clémence Blanchet
+23396 DurandVille",Restaurant
+139,Maréchal SA,"426, rue Lefebvre
+40984 Dubois",Bar
+140,Bertin,"80, rue de Bonneau
+54866 Barbedan",Restaurant
+141,Philippe,"chemin de Lebreton
+29784 Saint Sébastien-la-Forêt",Salle de concert
+142,Laine Briand S.A.,"65, avenue Frédéric Courtois
+72609 Pereira",Salle de concert
+143,Alexandre Renault S.A.,"579, boulevard de De Sousa
+06408 Saint ClaudineVille",Restaurant
+144,Ledoux,"33, rue de Boulay
+03639 Meunier",Bar
+145,Morvan Bruneau SARL,"43, rue de Rousseau
+17653 Rivière-sur-Allard",Restaurant
+146,Rocher,"468, chemin Charrier
+13936 Riou",Parc
+147,Payet,"68, avenue Éric Raynaud
+01502 Cousin",Salle de concert
+148,Peron,"48, chemin de Goncalves
+46703 Sainte Mathilde",Parc
+149,Pinto SA,"751, rue Foucher
+38779 Grenierdan",Parc
+150,Peltier,"94, boulevard de Dumont
+36135 Legros",Restaurant

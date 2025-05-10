@@ -52,7 +52,7 @@ def create_and_get_ids(cursor, table_name, num_records):
     elif table_name == 'MotCle':
         ids = []
         for i in range(num_records):
-            mot = fake.word()
+            mot = random.choice(['Musique', 'Sport', 'Art', 'Voyage', 'Technologie', 'Mode', 'Cuisine', 'Nature', 'Jeux', 'Lecture', 'Film', 'Séries', 'Photographie', 'Histoire', 'Culture','Aventure', 'Bien-être', 'Animaux', 'Bricolage', 'Jardinage'])
 
             cursor.execute("""
                 INSERT INTO MotCle (mot)
@@ -66,8 +66,16 @@ def create_and_get_ids(cursor, table_name, num_records):
 
     elif table_name == 'ReseauSocial':
         ids = []
+        used_networks = set()
+        networks = ['Facebook', 'Twitter', 'Instagram', 'Snapchat', 'LinkedIn', 'TikTok', 'Pinterest', 'Reddit', 'Discord', 'WhatsApp']
+
         for i in range(num_records):
-            nom = fake.word()
+            available_networks = [network for network in networks if network not in used_networks]
+            if not available_networks:
+                break  
+
+            nom = random.choice(available_networks)
+            used_networks.add(nom)
 
             cursor.execute("""
                 INSERT INTO ReseauSocial (nom)
@@ -85,7 +93,7 @@ def create_dependent_data(cursor, lieu_ids, utilisateur_ids, motcle_ids, reseau_
     evenement_ids = []
     num_evenements = 75
     for i in range(num_evenements):
-        description = fake.sentence()
+        description = random.choice(['Concert', 'Exposition', 'Festival', 'Match de sport', 'Séance de cinéma', 'Atelier', 'Conférence', 'Spectacle', 'Sortie en groupe', 'Visite guidée'])
         lieu_id = random.choice(lieu_ids)
         prix = round(random.uniform(10, 100), 2)
         date = fake.date_time_this_decade()
@@ -103,7 +111,7 @@ def create_dependent_data(cursor, lieu_ids, utilisateur_ids, motcle_ids, reseau_
     for i in range(num_historiques):
         utilisateur_id = random.choice(utilisateur_ids)
         site = fake.url()
-        description = fake.sentence()
+        description = random.choice(['Achat de vêtements', 'Réservation de voyage', 'Achat de livres', 'Achat de musique', 'Achat de jeux vidéo', 'Achat de matériel électronique', 'Achat de meubles', 'Achat de produits de beauté', 'Achat de nourriture', 'Achat de billets de concert', 'Achat de billets de cinéma'])
         date = fake.date_time_this_decade()
         prix = round(random.uniform(10, 100), 2)
 
@@ -117,7 +125,7 @@ def create_dependent_data(cursor, lieu_ids, utilisateur_ids, motcle_ids, reseau_
         utilisateur_id = random.choice(utilisateur_ids)
         reseau_id = random.choice(reseau_ids)
         type_activite = random.choice(['Post', 'Commentaire', 'Like'])
-        description = fake.text()
+        description = random.choice(['Publication sur le mur', 'Commentaire sur une photo', 'Like sur un post', 'Partage d\'un article', 'Message privé', 'Invitation à un événement', 'Demande d\'ami', 'Réaction à une story', 'Publication d\'une photo', 'Publication d\'une vidéo'])
         date = fake.date_time_this_decade()
 
         cursor.execute("""
