@@ -112,7 +112,7 @@ FROM disponible
 WHERE prochaine_date > NOW()
 ORDER BY prochaine_date
 LIMIT 1;
--- recuperer le prochain evenement d'un lieu X
+-- recuperer le prochain evenement d'un lieu V
 
 WITH rangs AS (
     SELECT
