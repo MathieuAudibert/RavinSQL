@@ -1,151 +1,151 @@
-id_h,id_utilisateur,site,prix,description,date
-451,332,https://laine.fr/,34.03,Achat de jeux vidéo,2024-05-25 03:16:15
-452,381,https://delorme.com/,78.61,Achat de meubles,2023-01-11 04:39:32
-453,376,https://maury.net/,51.11,Achat de vêtements,2024-08-22 15:30:57
-454,364,https://www.ledoux.org/,10.16,Réservation de voyage,2024-05-09 13:12:03
-455,364,https://www.brunel.com/,77.82,Achat de jeux vidéo,2022-03-06 01:40:36
-456,357,https://www.perez.com/,66.68,Réservation de voyage,2024-09-20 11:31:27
-457,308,http://www.benard.fr/,58.19,Achat de matériel électronique,2022-06-12 19:52:29
-458,342,http://www.ollivier.net/,46.79,Achat de vêtements,2024-09-05 10:48:46
-459,348,https://ferreira.com/,85.61,Achat de produits de beauté,2021-08-27 08:10:07
-460,377,http://joly.net/,21.65,Réservation de voyage,2022-04-10 05:02:33
-461,379,http://www.denis.fr/,70.3,Achat de vêtements,2020-05-22 00:44:42
-462,313,http://www.boulay.com/,40.8,Achat de billets de cinéma,2020-08-09 00:46:54
-463,357,https://pinto.com/,12.68,Achat de billets de cinéma,2022-05-21 12:17:30
-464,307,http://www.roger.net/,99.99,Achat de nourriture,2023-09-08 07:10:39
-465,364,https://michaud.com/,58.22,Achat de produits de beauté,2022-09-19 21:25:30
-466,374,http://www.julien.fr/,86.68,Achat de matériel électronique,2021-09-15 23:59:03
-467,343,http://www.ferreira.org/,85.24,Achat de livres,2025-04-24 17:17:49
-468,361,https://www.techer.com/,67.37,Achat de nourriture,2020-10-30 07:51:32
-469,337,https://www.allain.com/,48.52,Achat de matériel électronique,2025-01-28 18:44:43
-470,389,http://maury.fr/,54.57,Achat de jeux vidéo,2023-08-13 07:29:49
-471,381,https://www.diaz.com/,58.7,Réservation de voyage,2022-09-29 02:22:52
-472,358,https://www.mahe.com/,30.37,Achat de livres,2022-03-25 07:42:43
-473,359,http://raymond.com/,44.49,Achat de billets de cinéma,2024-05-19 07:32:05
-474,335,http://lopes.com/,40.15,Achat de produits de beauté,2022-04-06 20:01:25
-475,370,http://le.net/,82.04,Achat de billets de concert,2023-03-05 11:54:30
-476,332,http://www.richard.net/,71.22,Réservation de voyage,2023-05-31 03:22:42
-477,360,https://lucas.com/,24.81,Achat de meubles,2021-10-19 16:03:52
-478,324,https://launay.com/,33.09,Achat de livres,2023-03-19 15:59:09
-479,323,https://leveque.com/,39.93,Achat de matériel électronique,2024-05-13 03:26:07
-480,362,http://colas.net/,56.24,Achat de billets de concert,2023-08-01 18:58:05
-481,374,https://www.collin.net/,96.75,Achat de musique,2023-05-28 23:04:54
-482,331,https://www.benoit.net/,76.05,Achat de billets de concert,2021-05-08 08:13:27
-483,309,https://www.mathieu.com/,85.89,Achat de livres,2021-02-03 13:03:10
-484,381,https://mallet.com/,50.93,Achat de nourriture,2020-07-26 08:48:52
-485,348,https://www.dumas.com/,34.03,Achat de meubles,2024-03-04 07:29:51
-486,392,https://masse.com/,57.56,Réservation de voyage,2024-12-15 07:49:41
-487,370,http://www.boucher.fr/,38.05,Achat de billets de concert,2020-10-21 22:11:12
-488,338,https://seguin.fr/,57.47,Réservation de voyage,2021-04-20 08:23:43
-489,328,https://fleury.org/,54.64,Achat de nourriture,2023-11-29 05:42:08
-490,350,https://www.gautier.com/,41.3,Achat de matériel électronique,2023-02-07 03:51:36
-491,368,https://raynaud.fr/,89.24,Achat de livres,2021-06-03 06:28:39
-492,340,http://chauvet.fr/,12.55,Réservation de voyage,2025-03-16 11:02:56
-493,367,http://www.gilbert.fr/,79.88,Achat de billets de concert,2024-08-26 10:51:55
-494,398,http://blin.net/,51.96,Achat de livres,2023-02-13 23:56:06
-495,364,http://lacombe.com/,87.95,Achat de livres,2022-09-09 06:07:21
-496,311,https://www.gilbert.org/,18.08,Achat de matériel électronique,2025-04-03 17:01:12
-497,343,https://leveque.net/,54.99,Achat de billets de cinéma,2023-12-30 09:49:49
-498,314,http://bernier.net/,22.03,Achat de meubles,2022-02-26 08:45:15
-499,328,https://www.lopes.fr/,17.7,Achat de billets de concert,2021-06-17 09:32:34
-500,323,https://www.rodriguez.com/,91.94,Achat de livres,2023-08-17 05:48:35
-501,368,https://bazin.com/,20.55,Achat de billets de cinéma,2020-07-12 23:51:55
-502,364,http://www.rocher.com/,83.21,Achat de produits de beauté,2023-05-27 00:11:39
-503,346,http://www.brunet.fr/,41.7,Achat de vêtements,2022-01-25 18:05:47
-504,345,https://charles.net/,65.98,Achat de musique,2020-02-16 09:50:49
-505,329,https://www.durand.fr/,66.6,Achat de matériel électronique,2021-05-21 07:07:46
-506,352,https://giraud.fr/,54.75,Achat de musique,2022-02-21 10:38:42
-507,363,https://www.germain.com/,27.22,Achat de billets de cinéma,2021-01-24 04:00:27
-508,388,http://www.collet.net/,54.01,Achat de musique,2021-11-26 19:59:48
-509,349,http://peron.fr/,22.72,Achat de musique,2022-02-03 08:01:51
-510,335,http://diaz.net/,71.52,Achat de livres,2024-06-24 08:06:58
-511,357,http://www.peron.com/,42.26,Achat de livres,2021-02-09 00:22:33
-512,332,https://pruvost.com/,99.8,Achat de meubles,2021-05-22 06:21:29
-513,338,https://martins.com/,11.99,Achat de nourriture,2025-02-14 00:55:10
-514,372,http://www.sauvage.fr/,53.45,Achat de musique,2025-01-06 00:59:20
-515,392,https://voisin.net/,23.23,Achat de matériel électronique,2020-07-02 23:57:52
-516,382,http://martin.fr/,63.27,Achat de produits de beauté,2024-08-14 13:54:59
-517,338,https://www.ollivier.org/,88.65,Achat de vêtements,2023-01-08 14:54:53
-518,359,https://lebrun.com/,99.99,Achat de produits de beauté,2020-11-25 20:47:24
-519,387,http://besnard.fr/,52.64,Réservation de voyage,2020-11-15 03:22:06
-520,355,https://www.grenier.com/,37.83,Achat de livres,2022-02-04 22:02:41
-521,363,https://www.lenoir.fr/,71.41,Achat de nourriture,2024-03-25 10:34:53
-522,328,https://www.letellier.com/,40.24,Achat de nourriture,2021-12-15 07:21:01
-523,320,https://goncalves.fr/,43.52,Achat de nourriture,2021-07-28 01:56:32
-524,314,http://www.lebreton.com/,45.81,Achat de jeux vidéo,2024-01-22 11:57:05
-525,367,http://schmitt.fr/,19.54,Achat de produits de beauté,2024-11-11 09:07:05
-526,334,https://allard.com/,71.02,Achat de jeux vidéo,2024-12-06 00:54:47
-527,354,http://vincent.com/,94.12,Achat de musique,2022-11-23 08:08:26
-528,352,https://robin.com/,56.96,Achat de matériel électronique,2024-05-30 02:12:45
-529,316,https://leconte.fr/,21.72,Achat de billets de cinéma,2024-08-10 09:58:16
-530,396,https://etienne.com/,69.15,Réservation de voyage,2022-06-01 03:36:53
-531,338,https://www.giraud.net/,76.53,Achat de jeux vidéo,2024-05-02 04:37:34
-532,319,http://www.leroy.com/,65.72,Achat de musique,2025-01-11 04:19:04
-533,337,http://rousset.fr/,38.55,Achat de nourriture,2022-11-18 01:26:10
-534,399,https://www.neveu.fr/,26.99,Achat de jeux vidéo,2021-08-22 17:18:41
-535,330,https://torres.com/,41.72,Achat de jeux vidéo,2023-09-05 18:56:35
-536,325,http://www.evrard.fr/,92.68,Achat de nourriture,2020-03-04 03:20:21
-537,377,http://raynaud.fr/,80.15,Achat de livres,2024-02-17 20:14:51
-538,354,http://www.mahe.com/,65.74,Réservation de voyage,2023-11-28 17:27:22
-539,343,https://www.legrand.org/,50.55,Réservation de voyage,2021-04-18 11:31:23
-540,384,http://marchal.fr/,29.93,Achat de meubles,2020-08-04 13:13:24
-541,313,https://guillaume.com/,92.08,Achat de musique,2025-04-25 03:17:49
-542,330,https://www.pichon.net/,35.02,Achat de billets de concert,2022-08-09 22:44:28
-543,399,https://merle.fr/,33.74,Achat de nourriture,2021-02-13 13:53:56
-544,390,http://www.gros.fr/,91.66,Achat de nourriture,2022-08-09 00:06:04
-545,386,https://clement.fr/,88.95,Achat de meubles,2020-04-24 20:00:33
-546,376,https://www.foucher.com/,87.39,Achat de nourriture,2023-03-06 11:13:31
-547,308,https://meyer.fr/,40.28,Achat de billets de concert,2022-07-25 12:00:37
-548,315,http://www.mendes.fr/,23.23,Achat de billets de concert,2024-04-28 17:54:18
-549,322,http://charles.net/,53.01,Achat de jeux vidéo,2020-02-28 06:20:50
-550,305,https://www.simon.org/,70.44,Achat de meubles,2024-07-06 16:25:31
-551,364,http://maillet.fr/,45.28,Achat de livres,2021-12-04 09:15:12
-552,309,https://www.rey.com/,87.87,Réservation de voyage,2025-04-11 10:32:19
-553,320,https://www.bousquet.com/,94.08,Achat de musique,2022-07-11 10:53:33
-554,349,https://www.leclercq.com/,66.42,Achat de billets de concert,2024-03-06 01:06:25
-555,383,https://ramos.com/,58.95,Achat de produits de beauté,2020-01-31 14:36:35
-556,377,http://schmitt.fr/,23.91,Achat de livres,2022-04-26 14:51:04
-557,378,https://www.fournier.org/,44.59,Achat de matériel électronique,2023-04-14 22:50:30
-558,354,http://www.weiss.fr/,69.88,Achat de billets de cinéma,2024-02-19 14:27:15
-559,323,http://levy.com/,62.16,Achat de livres,2020-09-06 09:00:29
-560,314,http://hoareau.net/,66.03,Réservation de voyage,2022-06-20 10:25:43
-561,369,https://bernier.com/,84.49,Achat de livres,2022-10-04 11:37:00
-562,311,https://www.hardy.com/,97.98,Achat de produits de beauté,2020-02-12 14:54:52
-563,375,https://www.hernandez.fr/,88.54,Achat de billets de cinéma,2021-12-10 20:40:27
-564,396,http://jean.com/,84.49,Achat de jeux vidéo,2024-09-12 10:26:20
-565,385,https://normand.com/,77.25,Achat de billets de cinéma,2023-11-11 16:11:56
-566,344,http://www.chauvin.fr/,25.44,Achat de matériel électronique,2023-10-17 05:28:15
-567,365,http://guyot.fr/,33.93,Achat de meubles,2021-01-31 10:33:19
-568,347,https://berthelot.com/,47.11,Achat de billets de concert,2021-08-22 08:35:51
-569,324,http://raymond.com/,16.44,Réservation de voyage,2021-09-19 13:22:16
-570,340,https://leclerc.com/,89.85,Achat de jeux vidéo,2024-06-23 20:22:24
-571,329,https://gregoire.fr/,30.05,Achat de nourriture,2022-08-03 13:08:26
-572,369,http://fernandes.com/,99.39,Achat de nourriture,2022-01-26 02:05:08
-573,379,http://weiss.com/,40.49,Achat de livres,2023-12-08 21:24:51
-574,332,https://pottier.fr/,47.62,Achat de jeux vidéo,2024-07-11 21:16:10
-575,316,http://mahe.org/,67.44,Achat de produits de beauté,2024-02-21 00:29:20
-576,324,https://cohen.fr/,32.49,Achat de billets de concert,2021-12-26 16:55:55
-577,373,https://briand.org/,27.66,Achat de nourriture,2025-03-02 15:11:51
-578,310,http://duval.fr/,43.9,Réservation de voyage,2021-02-28 05:51:15
-579,343,http://rossi.com/,57.73,Achat de billets de cinéma,2023-11-07 02:49:30
-580,390,https://thomas.net/,73.19,Achat de vêtements,2021-08-01 21:15:13
-581,392,http://lejeune.com/,53.33,Achat de meubles,2021-07-03 20:20:14
-582,377,https://www.traore.net/,86.35,Achat de meubles,2021-06-12 12:26:03
-583,331,https://faivre.com/,37.44,Achat de vêtements,2023-05-01 07:38:04
-584,387,https://www.goncalves.org/,20.82,Achat de livres,2020-08-27 13:55:49
-585,351,http://dupuis.fr/,30.73,Achat de billets de cinéma,2024-07-28 17:51:49
-586,349,http://www.alexandre.fr/,99.82,Achat de musique,2024-07-20 02:01:59
-587,351,http://germain.fr/,95.87,Achat de meubles,2024-04-29 16:01:27
-588,388,http://garnier.com/,73.88,Achat de nourriture,2020-07-21 13:36:05
-589,389,https://marie.net/,84.28,Achat de jeux vidéo,2022-07-18 03:04:12
-590,313,https://www.pineau.org/,85.06,Achat de livres,2023-12-08 02:39:42
-591,344,http://www.cohen.com/,18.32,Achat de livres,2020-03-31 02:11:04
-592,314,https://morel.net/,37.13,Achat de produits de beauté,2021-09-26 11:46:20
-593,307,http://maillot.com/,75.86,Réservation de voyage,2023-08-08 06:18:50
-594,308,https://www.gomes.fr/,36.34,Achat de billets de concert,2022-12-27 04:51:02
-595,395,http://www.aubert.com/,47.83,Achat de billets de concert,2024-06-06 18:47:32
-596,364,http://adam.fr/,77.56,Achat de vêtements,2021-02-19 17:17:31
-597,377,http://www.marty.com/,60.71,Achat de matériel électronique,2022-07-25 19:22:10
-598,333,http://www.gerard.fr/,18.04,Achat de billets de concert,2024-05-30 03:09:12
-599,313,http://www.bernard.org/,85.93,Achat de livres,2022-08-16 17:33:38
-600,323,http://meyer.org/,25.37,Achat de billets de cinéma,2020-05-20 04:07:01
+id_h,id_utilisateur,site,prix,description,date,categorie
+1,19,http://www.grondin.com/,55.71,Achat de produits de beauté,2022-03-12 22:30:47,Beauté
+2,39,http://www.buisson.com/,27.87,Achat de jeux vidéo,2023-02-09 08:53:39,Beauté
+3,71,http://baron.net/,23.64,Achat de musique,2020-08-22 15:46:03,Nourriture
+4,43,http://www.fabre.fr/,68.93,Réservation de voyage,2024-06-27 10:06:39,Beauté
+5,25,http://www.robert.fr/,59.04,Achat de billets de concert,2021-03-04 08:30:24,Billets
+6,39,http://www.allard.net/,23.52,Achat de matériel électronique,2025-05-24 23:06:36,Électronique
+7,11,http://dupont.net/,34.77,Achat de livres,2020-08-26 02:01:47,Vêtements
+8,31,https://www.rousset.com/,27.39,Achat de billets de concert,2022-07-03 12:17:40,Beauté
+9,13,https://parent.com/,13.72,Achat de produits de beauté,2023-03-22 04:41:14,Nourriture
+10,65,http://www.antoine.com/,93.7,Achat de meubles,2024-07-09 13:45:12,Billets
+11,5,https://www.vidal.org/,28.54,Réservation de voyage,2021-09-01 17:16:52,Vêtements
+12,61,http://www.leclercq.com/,21.65,Achat de billets de cinéma,2022-04-26 05:57:06,Meubles
+13,77,https://marion.com/,65.03,Réservation de voyage,2021-06-21 22:47:09,Voyage
+14,25,https://mahe.org/,23.87,Achat de meubles,2020-07-10 18:50:09,Livres
+15,25,https://boyer.fr/,51.69,Achat de matériel électronique,2023-06-16 10:36:13,Jeux vidéo
+16,48,https://www.humbert.net/,29.66,Achat de vêtements,2024-03-19 15:30:41,Meubles
+17,40,https://www.wagner.net/,12.93,Achat de nourriture,2022-07-11 21:19:13,Livres
+18,94,https://www.dupuis.com/,67.81,Achat de meubles,2021-10-12 18:01:01,Nourriture
+19,63,https://laroche.org/,30.96,Achat de matériel électronique,2021-07-26 14:59:43,Musique
+20,99,https://www.barthelemy.fr/,94.3,Achat de livres,2020-08-20 23:54:13,Musique
+21,78,http://www.roche.com/,56.36,Achat de produits de beauté,2021-04-09 22:57:36,Électronique
+22,33,http://lebon.com/,89.17,Achat de nourriture,2023-03-07 14:42:00,Musique
+23,32,https://www.hubert.fr/,35.87,Achat de jeux vidéo,2022-12-10 09:53:41,Meubles
+24,37,http://coulon.fr/,79.85,Achat de meubles,2022-11-08 09:38:26,Électronique
+25,30,http://www.hernandez.com/,35.66,Achat de livres,2020-04-29 02:43:53,Livres
+26,56,http://www.de.com/,15.92,Achat de nourriture,2022-09-09 15:20:56,Nourriture
+27,97,https://laurent.fr/,31.44,Réservation de voyage,2025-05-09 22:25:17,Musique
+28,100,https://www.moreau.fr/,43.04,Achat de livres,2020-11-17 09:16:35,Meubles
+29,46,http://lemonnier.com/,83.92,Achat de livres,2022-12-17 06:34:20,Électronique
+30,67,http://www.mary.com/,59.69,Achat de billets de concert,2023-03-22 12:17:20,Beauté
+31,72,http://www.henry.net/,39.45,Réservation de voyage,2023-07-06 09:41:47,Jeux vidéo
+32,2,https://bailly.fr/,15.11,Achat de livres,2023-05-15 12:32:48,Livres
+33,88,https://coste.net/,31.82,Achat de musique,2023-08-01 16:03:08,Jeux vidéo
+34,56,http://www.bonnet.com/,25.68,Achat de billets de concert,2023-08-25 00:57:59,Électronique
+35,10,https://www.mary.net/,15.78,Achat de musique,2024-06-22 05:57:51,Beauté
+36,14,http://philippe.fr/,10.12,Achat de vêtements,2020-09-02 10:24:12,Billets
+37,17,http://www.leroux.fr/,41.81,Achat de nourriture,2023-03-07 04:15:37,Électronique
+38,25,https://www.guillaume.fr/,31.93,Achat de nourriture,2021-01-07 09:52:30,Meubles
+39,23,https://jacquot.fr/,25.45,Achat de livres,2022-08-24 23:00:26,Meubles
+40,31,http://carpentier.fr/,31.85,Achat de meubles,2022-05-03 20:24:53,Électronique
+41,15,https://legrand.net/,93.47,Achat de meubles,2024-09-04 13:17:17,Livres
+42,27,https://weber.fr/,31.28,Achat de musique,2022-03-18 20:38:42,Vêtements
+43,85,http://rodriguez.fr/,50.51,Achat de produits de beauté,2023-06-28 20:44:39,Musique
+44,51,https://brunel.fr/,38.23,Achat de jeux vidéo,2023-09-08 04:14:31,Jeux vidéo
+45,49,http://parent.net/,85.41,Achat de vêtements,2020-03-11 04:51:43,Billets
+46,15,http://www.germain.fr/,31.25,Achat de vêtements,2024-02-25 23:36:41,Jeux vidéo
+47,16,https://www.mallet.net/,24.3,Achat de livres,2023-01-08 02:48:56,Meubles
+48,65,https://marchand.com/,23.78,Achat de produits de beauté,2024-09-24 02:49:43,Électronique
+49,2,https://sauvage.org/,41.53,Achat de livres,2021-07-11 15:15:29,Vêtements
+50,19,https://renaud.fr/,27.09,Achat de matériel électronique,2024-10-02 21:21:05,Meubles
+51,86,https://fontaine.com/,55.7,Réservation de voyage,2025-05-02 03:30:17,Billets
+52,37,https://www.michel.fr/,65.15,Achat de produits de beauté,2022-02-09 14:31:30,Billets
+53,87,https://www.jourdan.fr/,10.71,Achat de meubles,2024-08-17 10:03:21,Livres
+54,51,https://guillot.fr/,32.73,Achat de livres,2021-06-25 08:48:50,Livres
+55,12,https://barbe.fr/,63.76,Achat de meubles,2022-05-08 11:51:33,Meubles
+56,88,http://www.poulain.fr/,43.09,Achat de livres,2022-01-24 17:21:57,Meubles
+57,59,https://www.rocher.fr/,66.58,Achat de musique,2025-05-12 01:11:54,Électronique
+58,99,http://adam.com/,74.5,Achat de billets de cinéma,2021-11-07 10:53:59,Livres
+59,13,https://thierry.com/,67.43,Achat de produits de beauté,2020-07-26 20:51:01,Meubles
+60,71,https://www.klein.com/,56.44,Achat de jeux vidéo,2022-06-07 06:34:01,Livres
+61,20,https://www.barbier.net/,87.56,Achat de musique,2023-10-31 10:26:22,Musique
+62,29,https://julien.com/,12.53,Achat de jeux vidéo,2020-12-18 21:54:07,Voyage
+63,15,http://lemaitre.net/,31.85,Achat de produits de beauté,2023-01-05 07:15:19,Jeux vidéo
+64,59,http://www.david.com/,32.1,Achat de produits de beauté,2024-04-13 23:23:54,Vêtements
+65,13,http://julien.com/,22.99,Achat de musique,2022-03-19 06:33:42,Électronique
+66,100,https://maury.com/,30.78,Achat de jeux vidéo,2024-09-27 14:09:55,Beauté
+67,89,http://www.gros.com/,65.97,Achat de jeux vidéo,2021-10-16 19:19:51,Meubles
+68,5,https://www.munoz.fr/,11.7,Achat de produits de beauté,2023-04-26 17:36:22,Jeux vidéo
+69,72,https://coulon.org/,34.93,Achat de vêtements,2022-04-03 08:26:52,Électronique
+70,49,http://arnaud.com/,34.44,Achat de produits de beauté,2020-01-16 17:48:26,Musique
+71,66,http://www.faure.net/,23.25,Achat de matériel électronique,2020-03-16 14:19:17,Meubles
+72,82,http://gomez.com/,40.99,Achat de livres,2022-02-21 14:54:28,Musique
+73,67,https://couturier.net/,30.28,Achat de vêtements,2020-01-27 15:25:57,Voyage
+74,36,https://www.bonnet.com/,23.11,Achat de nourriture,2020-01-05 05:49:55,Nourriture
+75,18,http://arnaud.fr/,48.61,Achat de matériel électronique,2023-09-22 06:15:53,Billets
+76,67,https://guilbert.org/,53.79,Achat de matériel électronique,2020-09-13 15:29:48,Livres
+77,2,http://www.lesage.com/,10.99,Achat de nourriture,2024-07-19 19:00:14,Nourriture
+78,24,https://www.baron.com/,86.03,Achat de billets de cinéma,2023-12-17 16:32:13,Nourriture
+79,47,https://gomes.fr/,97.12,Achat de meubles,2021-03-20 11:20:28,Billets
+80,11,http://www.noel.fr/,18.53,Achat de billets de concert,2020-07-19 14:03:51,Livres
+81,90,http://www.leger.fr/,75.34,Achat de nourriture,2020-01-29 10:19:30,Électronique
+82,99,http://da.fr/,72.89,Achat de billets de concert,2021-04-28 06:21:40,Vêtements
+83,26,https://www.reynaud.fr/,53.61,Achat de matériel électronique,2023-01-25 20:58:27,Livres
+84,1,https://www.alves.fr/,42.81,Achat de vêtements,2024-06-03 23:35:16,Musique
+85,43,http://www.didier.com/,82.47,Achat de billets de concert,2021-09-20 11:39:35,Vêtements
+86,11,https://bertin.net/,48.57,Achat de musique,2023-11-03 15:20:57,Billets
+87,26,http://ruiz.com/,11.35,Achat de vêtements,2025-02-26 02:54:04,Nourriture
+88,5,http://julien.fr/,37.1,Achat de livres,2024-06-16 16:43:09,Musique
+89,75,https://www.launay.fr/,78.07,Achat de billets de concert,2024-12-01 12:09:01,Voyage
+90,70,http://www.menard.com/,89.19,Achat de billets de concert,2020-12-22 11:10:16,Voyage
+91,35,https://chauveau.org/,20.54,Achat de produits de beauté,2023-07-05 18:36:45,Nourriture
+92,6,http://www.boulay.net/,48.57,Réservation de voyage,2024-04-25 11:04:44,Électronique
+93,47,https://www.delorme.fr/,33.01,Achat de vêtements,2021-04-06 14:14:26,Jeux vidéo
+94,64,https://www.berger.fr/,48.59,Achat de matériel électronique,2024-06-01 11:02:53,Livres
+95,95,http://briand.net/,17.4,Achat de jeux vidéo,2020-02-04 17:11:40,Électronique
+96,93,https://www.texier.fr/,26.23,Achat de nourriture,2023-09-21 02:48:28,Meubles
+97,83,http://www.marques.fr/,63.51,Achat de vêtements,2022-08-19 04:43:01,Livres
+98,95,https://rodrigues.fr/,53.54,Achat de musique,2023-11-26 09:03:27,Billets
+99,47,https://denis.fr/,33.74,Achat de nourriture,2022-02-25 23:14:25,Musique
+100,59,https://www.couturier.fr/,75.98,Achat de produits de beauté,2021-12-08 04:08:42,Livres
+101,42,http://www.imbert.fr/,20.11,Achat de nourriture,2022-07-11 06:02:08,Billets
+102,31,https://lopez.org/,56.9,Achat de livres,2022-03-19 02:37:02,Billets
+103,72,https://rossi.net/,95.7,Réservation de voyage,2022-01-14 14:47:54,Livres
+104,77,https://www.lebrun.fr/,23.79,Achat de jeux vidéo,2024-02-08 03:18:35,Beauté
+105,89,https://gautier.com/,45.82,Achat de livres,2021-03-25 21:16:21,Voyage
+106,44,http://labbe.net/,13.99,Achat de produits de beauté,2021-04-03 18:08:42,Beauté
+107,88,http://www.gomez.com/,23.4,Achat de billets de concert,2020-09-20 02:23:17,Meubles
+108,53,https://www.fischer.net/,86.19,Achat de produits de beauté,2023-07-09 10:56:32,Vêtements
+109,77,http://dias.com/,56.6,Achat de billets de concert,2021-03-29 00:24:56,Billets
+110,71,https://hubert.org/,72.5,Achat de billets de cinéma,2021-03-21 06:22:43,Musique
+111,85,https://www.paris.com/,33.98,Achat de matériel électronique,2020-08-21 11:45:30,Billets
+112,21,http://leclerc.org/,17.33,Achat de vêtements,2023-05-11 18:12:55,Nourriture
+113,76,http://lopez.com/,34.52,Achat de matériel électronique,2023-03-09 22:55:02,Beauté
+114,75,http://www.monnier.net/,46.51,Achat de musique,2024-08-13 10:01:47,Beauté
+115,2,http://www.maury.fr/,72.71,Achat de billets de concert,2023-06-07 10:35:16,Beauté
+116,46,https://www.diallo.com/,86.49,Achat de billets de concert,2021-05-30 02:44:10,Billets
+117,50,http://breton.fr/,78.66,Réservation de voyage,2025-02-02 08:06:05,Beauté
+118,94,https://gillet.com/,27.73,Achat de produits de beauté,2022-03-03 09:52:14,Électronique
+119,29,https://www.legendre.net/,39.37,Achat de jeux vidéo,2023-06-04 00:42:56,Électronique
+120,22,http://www.leclerc.fr/,51.73,Achat de vêtements,2022-05-18 05:29:23,Meubles
+121,31,https://www.da.fr/,56.55,Achat de jeux vidéo,2023-04-14 05:17:17,Livres
+122,75,http://marie.fr/,48.77,Achat de billets de concert,2023-11-15 07:00:17,Nourriture
+123,100,https://antoine.com/,97.36,Achat de produits de beauté,2023-01-04 07:54:48,Livres
+124,19,https://hernandez.fr/,52.01,Achat de vêtements,2020-10-17 20:05:45,Nourriture
+125,5,https://dupuis.fr/,42.55,Achat de matériel électronique,2020-04-16 17:52:42,Nourriture
+126,31,http://lenoir.com/,44.84,Achat de jeux vidéo,2020-11-19 16:11:23,Vêtements
+127,13,http://duhamel.fr/,58.58,Achat de vêtements,2025-03-02 01:51:42,Électronique
+128,83,https://www.rousset.com/,59.16,Achat de jeux vidéo,2022-04-08 14:02:50,Meubles
+129,66,https://laporte.com/,89.58,Achat de billets de concert,2022-06-23 18:07:17,Billets
+130,95,https://dumont.com/,30.89,Achat de vêtements,2024-02-21 16:39:00,Billets
+131,6,http://arnaud.com/,68.35,Réservation de voyage,2023-12-06 22:22:37,Voyage
+132,71,https://www.hardy.org/,58.46,Réservation de voyage,2021-02-28 02:32:40,Jeux vidéo
+133,90,https://diallo.com/,11.18,Achat de livres,2021-11-04 02:53:56,Voyage
+134,40,https://roux.com/,58.13,Achat de musique,2024-11-25 14:28:50,Électronique
+135,25,https://poirier.org/,44.64,Achat de billets de concert,2022-08-22 08:50:03,Musique
+136,68,http://lagarde.com/,31.91,Achat de billets de concert,2022-11-18 23:00:07,Beauté
+137,8,https://bailly.fr/,45.59,Achat de produits de beauté,2024-05-21 20:17:06,Voyage
+138,71,http://bruneau.com/,49.84,Achat de musique,2025-05-06 23:20:17,Musique
+139,72,https://www.bourdon.fr/,17.05,Achat de jeux vidéo,2024-05-17 15:31:04,Jeux vidéo
+140,22,https://marechal.fr/,48.37,Achat de nourriture,2024-09-09 08:20:46,Nourriture
+141,49,http://dos.fr/,87.13,Achat de billets de cinéma,2021-02-20 10:28:20,Jeux vidéo
+142,69,https://www.da.com/,24.77,Achat de jeux vidéo,2023-06-14 15:03:34,Livres
+143,36,http://www.laporte.fr/,68.89,Achat de matériel électronique,2023-04-14 21:53:10,Musique
+144,4,https://briand.com/,85.16,Achat de vêtements,2020-05-11 16:31:37,Nourriture
+145,18,http://www.berger.net/,75.3,Achat de billets de concert,2025-04-08 06:39:14,Nourriture
+146,74,http://www.lombard.fr/,60.34,Achat de billets de cinéma,2025-02-19 07:59:26,Beauté
+147,29,http://tanguy.com/,72.21,Achat de billets de concert,2021-12-30 22:50:32,Meubles
+148,49,http://millet.net/,27.81,Achat de billets de concert,2022-07-16 07:19:01,Voyage
+149,40,http://laurent.com/,30.48,Achat de matériel électronique,2025-03-11 20:09:49,Musique
+150,23,https://www.collet.com/,28.06,Achat de livres,2023-04-04 13:22:47,Vêtements

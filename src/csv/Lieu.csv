@@ -1,101 +1,101 @@
-id_l,nom,adresse,type
-151,Rémy Verdier SARL,"rue Alain Bazin
-31407 Guyot",Restaurant
-152,Guyot SARL,"80, rue de Julien
-78167 AubertVille",Bar
-153,Charles S.A.,"25, boulevard Laine
-76728 Gaudin",Parc
-154,Leroux,"5, boulevard Berger
-43934 Benoit-la-Forêt",Salle de concert
-155,Masson,"61, avenue Grondin
-97354 Pichon",Bar
-156,Colas,"1, rue De Oliveira
-61520 Fernandez",Salle de concert
-157,Gaudin,"rue Leconte
-94617 Peltier-les-Bains",Salle de concert
-158,Renaud,"6, boulevard Laure Lesage
-23864 LefebvreVille",Bar
-159,Gimenez,"8, chemin Laurent
-04841 Pintonec",Restaurant
-160,Masse,"97, rue de Richard
-14690 Saint Caroline",Parc
-161,Leroy Laporte S.A.,"22, avenue Muller
-58786 Sainte AlixBourg",Bar
-162,Gautier Navarro S.A.S.,"95, boulevard Gillet
-28455 Blin",Bar
-163,Poirier,"54, boulevard Collet
-11127 Lombard",Parc
-164,Marques,"31, chemin de Lemonnier
-50337 Hardy",Parc
-165,Guichard SA,"chemin Lecomte
-33152 Camus",Salle de concert
-166,Bouvier SA,"33, boulevard de Gomes
-65828 Sauvage",Restaurant
-167,Dufour SARL,"boulevard Texier
-55258 Cohen",Bar
-168,Lopes Bouvier et Fils,"89, rue Nathalie Mary
-19104 PetitBourg",Salle de concert
-169,Costa,"6, avenue Perrin
-63630 Pruvost-sur-Meyer",Salle de concert
-170,Ribeiro,"rue Delaunay
-97291 Guillon-sur-Mer",Salle de concert
-171,Renaud,"617, avenue de Moreau
-44606 Benard",Bar
-172,Collet,"41, chemin Raymond Chauvin
-55930 Peltier",Bar
-173,Garcia,"chemin de Fernandez
-64343 Saint Alice",Restaurant
-174,Blanc Picard S.A.R.L.,"55, avenue de Mallet
-48752 Richard-sur-Charrier",Salle de concert
-175,Ruiz SA,"21, avenue Alexandrie Marty
-18955 Maurice-sur-Dupré",Parc
-176,Hoareau,"9, chemin Gabriel Lebon
-79443 Collet",Bar
-177,Guillot S.A.S.,"5, avenue Arthur Diallo
-61720 Valette",Restaurant
-178,Masson S.A.R.L.,"rue de Richard
-17544 Pineau-les-Bains",Restaurant
-179,Regnier,"5, avenue Pauline Teixeira
-02531 Sainte Alphonse",Parc
-180,Parent S.A.R.L.,"9, boulevard Evrard
-75228 Masson-la-Forêt",Salle de concert
-181,Petitjean SARL,"61, chemin Nicolas Da Costa
-83464 Bruneau-sur-Mer",Restaurant
-182,Gros,"95, chemin Claude Petit
-60700 Sainte Céline",Restaurant
-183,Maillot Guillon SARL,"90, boulevard Jacqueline Wagner
-53933 Maury",Bar
-184,Letellier S.A.S.,"avenue Julien Wagner
-88264 Mercier-la-Forêt",Parc
-185,Paris,"87, rue Daniel
-22576 LegrosBourg",Salle de concert
-186,Moulin S.A.,"7, rue Henri Bodin
-97629 Evrard",Restaurant
-187,Martinez,"6, rue de De Oliveira
-47797 Garcia",Salle de concert
-188,Courtois Dupuis S.A.S.,"739, rue Stéphane Cousin
-47997 Pineau",Salle de concert
-189,Voisin et Fils,"4, rue de Grondin
-31662 Diaz",Salle de concert
-190,Hoarau Peltier S.A.,"942, avenue Roux
-95970 Texier",Parc
-191,Clerc,"92, rue Mace
-53106 Allardnec",Parc
-192,Lombard Perrin et Fils,"5, rue Wagner
-83390 GayVille",Bar
-193,Delattre Sanchez et Fils,"72, rue Baudry
-08776 Paul-sur-Charles",Parc
-194,Maillet,"31, avenue Albert
-01687 Besson",Bar
-195,Perret,"176, boulevard Monnier
-16333 Vallée",Bar
-196,Godard,"34, avenue de Bourdon
-31468 Chauvet",Restaurant
-197,Bouchet,"82, boulevard de Briand
-47337 Poulain",Bar
-198,Guillou,"399, rue de Prévost
-92799 Saint Sabine",Salle de concert
-199,Muller Clément S.A.,"86, avenue Lorraine Collin
-24988 Roger",Bar
-200,Jacquot S.A.R.L.,"30, chemin de Humbert
-97655 Guillaume",Bar
+id_l,nom,adresse,type,capacite,accessibilite
+1,Langlois S.A.,"72, chemin Timothée Deschamps
+02474 Baron",Bar,454,Bus
+2,Marchal et Fils,"9, avenue Astrid Bourdon
+09984 Teixeira-sur-Mer",Parc,264,Tramway
+3,Gérard,"77, boulevard Antoine Lemonnier
+59117 Vidal",Bar,56,Metro
+4,Rocher S.A.R.L.,"59, boulevard Odette Pelletier
+38583 Menard-sur-Bertin",Parc,294,Voiture
+5,Antoine,"7, chemin Augustin Gallet
+95851 Dupré-la-Forêt",Bar,251,Vélo
+6,Albert S.A.,"780, avenue Louis Dupré
+25971 Payet-sur-Da Costa",Parc,457,Vélo
+7,Schmitt SARL,"23, boulevard René Da Silva
+35334 Meunier-sur-Maréchal",Salle de concert,51,Vélo
+8,Chauvet,"39, avenue de Jacob
+80294 Antoine-la-Forêt",Restaurant,248,Voiture
+9,Bonnet,"49, chemin Georges
+36679 Saint Monique-sur-Mer",Restaurant,108,Voiture
+10,Roche Huet SARL,"avenue Jacqueline Mary
+92293 Normand",Restaurant,407,Vélo
+11,Seguin Colas et Fils,"84, rue de Marin
+79129 Muller-sur-Le Goff",Bar,429,À pied
+12,Breton S.A.S.,"rue Nicolas Lévêque
+62942 Becker",Parc,427,À pied
+13,Cohen,"959, rue de Bonnin
+97635 Saint Adrien",Bar,307,Metro
+14,Lejeune,"56, chemin Auguste Lévêque
+83543 Piresboeuf",Restaurant,436,Tramway
+15,Foucher,"8, chemin Amélie Laporte
+75834 Simondan",Restaurant,298,Metro
+16,Laporte Benard S.A.R.L.,"avenue de Charpentier
+97240 Dufourdan",Bar,98,À pied
+17,Guillet Delmas SA,"avenue de Gomez
+54850 FabreVille",Bar,496,Tramway
+18,Martin,"33, boulevard de Gosselin
+84683 Saint Pauletteboeuf",Salle de concert,249,À pied
+19,Torres Colas S.A.R.L.,"boulevard Suzanne Charpentier
+63633 Saint Laetitiadan",Parc,59,Bus
+20,Vallet,"6, boulevard de Collet
+44626 Menard-sur-Giraud",Bar,354,Vélo
+21,Renard,"74, chemin de Hoareau
+22483 Lombarddan",Bar,324,À pied
+22,Roy,"594, boulevard Diane Dumont
+58352 Julienboeuf",Restaurant,289,Bus
+23,Rémy Gonzalez et Fils,"6, avenue Gabrielle Delmas
+58779 Peltierboeuf",Bar,111,Vélo
+24,Bonneau,"34, rue Marcelle Dias
+61418 Leduc",Salle de concert,120,Bus
+25,Jacquot et Fils,"4, boulevard Pauline Lesage
+62723 Robinboeuf",Parc,319,Bus
+26,Leroux Becker S.A.S.,"43, chemin Daniel Renaud
+88740 Thomas",Parc,465,Tramway
+27,Besnard S.A.R.L.,"161, avenue Yves Gallet
+03408 Weiss-sur-Diallo",Bar,431,Vélo
+28,Renard,"9, avenue de Deschamps
+12344 Paris",Salle de concert,424,Metro
+29,Thomas,"26, rue Thibault Morvan
+43706 Peron-sur-Charpentier",Restaurant,80,À pied
+30,Roy SA,"87, rue Claude Mary
+63482 Sainte Alexandria",Parc,373,Tramway
+31,Bègue SARL,"27, chemin de Michel
+04505 Sainte Jacquesdan",Salle de concert,483,À pied
+32,Martins S.A.R.L.,"4, rue de Gillet
+28309 Blin",Restaurant,440,Voiture
+33,Pascal et Fils,"13, rue de Cousin
+88918 Michaud",Bar,367,Bus
+34,Sanchez Delorme S.A.,"rue de Ledoux
+58657 Masse",Restaurant,180,Metro
+35,Lenoir Pruvost S.A.R.L.,"43, chemin de Leconte
+23450 Peron-sur-Mer",Bar,366,Vélo
+36,Loiseau,"79, chemin Patricia Peltier
+51576 Lemonnier",Restaurant,128,Tramway
+37,Barre,"28, boulevard de Hamon
+87621 Masson-sur-Bousquet",Parc,456,Voiture
+38,Blondel S.A.S.,"3, avenue de Wagner
+13936 Teixeira",Bar,69,À pied
+39,Bernier S.A.R.L.,"53, boulevard de Collin
+80746 Roux",Salle de concert,86,À pied
+40,Auger S.A.,"51, chemin Constance Guyot
+05261 Bourdon-la-Forêt",Salle de concert,293,Tramway
+41,Michel,"61, boulevard de Benoit
+56479 Sainte Susan",Parc,54,Metro
+42,Pelletier,"87, chemin Moreau
+54883 Lévy",Restaurant,302,À pied
+43,Humbert,"5, rue Lacombe
+75727 Descamps",Salle de concert,414,Bus
+44,Chartier Lucas SARL,"53, boulevard Adrien Imbert
+40713 Morel",Bar,54,Voiture
+45,Delmas S.A.R.L.,"8, chemin de Pineau
+82211 Nguyen",Salle de concert,207,Bus
+46,Maillard et Fils,"81, boulevard Pierre Gay
+83202 Maury",Salle de concert,220,À pied
+47,Poirier,"42, avenue Adrien Fouquet
+48365 Olivier",Bar,423,Bus
+48,Parent SA,"17, avenue André Dias
+97156 Laurent",Parc,332,Tramway
+49,Barthelemy Loiseau S.A.R.L.,"boulevard de Salmon
+40984 Lefèvre",Parc,147,À pied
+50,Traore SARL,"5, rue Godard
+93351 Descamps",Parc,277,Tramway

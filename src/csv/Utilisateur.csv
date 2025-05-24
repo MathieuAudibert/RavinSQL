@@ -1,101 +1,101 @@
-id_u,pseudo,prenom,nom,ville,pays,genre,orientation,taille,poids,couleur_y,est_abonne,date_crea
-301,thomasdiaz,Tristan,Goncalves,Da Costa,Guatemala,Homme,Bisexuel,168,76.6,vert,False,2020-09-17 06:53:56
-302,epicard,Madeleine,Dos Santos,Laurentdan,Benin,Autre,Autre,197,70.1,vert,False,2021-01-26 02:04:55
-303,pboutin,Olivie,Joubert,Sainte Suzanne,Kirghizistan,Femme,Autre,180,88.8,vert,False,2023-04-04 14:23:48
-304,andre29,Capucine,Chauvin,Sainte Éricnec,Égypte,Autre,Autre,186,64.0,bordeaux,False,2020-03-29 15:22:13
-305,philippe85,Thérèse,Pires,Normand,Tunisie,Homme,Autre,189,85.6,vert,False,2021-11-22 23:55:37
-306,afrancois,Jeanne,Prévost,Gimenezboeuf,Maldives (Îles),Femme,Autre,162,50.9,bordeaux,True,2022-12-18 08:40:25
-307,louisrobin,David,Laine,Aubry,Cameroun,Autre,Bisexuel,190,91.3,vert,False,2023-07-20 14:41:25
-308,joseph54,Édith,Robin,Wagner,Polynésie française,Autre,Homosexuel,153,79.1,fuchsia,False,2020-12-21 23:13:28
-309,zcollin,Audrey,Berger,Fouquet,Mariannes du Nord (Îles),Homme,Homosexuel,177,77.2,noir,True,2023-09-22 20:49:06
-310,munozclemence,Théophile,Bodin,Lemonnier,Venezuela,Homme,Autre,172,70.7,violet,False,2021-04-21 20:09:02
-311,isaacfleury,Charlotte,Nguyen,Roche,Antilles néerlandaises,Homme,Hétéro,151,84.7,noir,True,2024-08-07 03:45:16
-312,rochefrancois,Bernadette,Chauvin,Sainte Thérèse,Équateur,Femme,Homosexuel,182,65.0,fuchsia,True,2021-05-23 14:13:00
-313,mariepages,Dorothée,Jacquot,Renaud,Antilles néerlandaises,Homme,Homosexuel,161,73.9,gris,True,2024-07-28 10:59:18
-314,reneda-silva,Eugène,Duhamel,Pottier,Zaïre,Homme,Bisexuel,174,94.5,jaune,True,2023-01-14 04:17:09
-315,michelclaire,Adèle,Thierry,Robin-sur-Gaillard,Corée du Nord,Autre,Homosexuel,152,72.1,bleu,True,2021-02-11 08:35:27
-316,lorraine12,Josette,Charrier,Lebon,Russie,Femme,Bisexuel,190,97.3,bordeaux,False,2025-04-15 11:22:16
-317,carliertherese,Robert,Gautier,Vallet,Maldives (Îles),Homme,Homosexuel,198,50.3,bordeaux,True,2025-04-24 08:52:40
-318,carliermargaret,Émilie,Bernier,Lenoir,Sahara Occidental,Femme,Autre,178,64.7,fuchsia,False,2023-03-18 20:54:17
-319,allardhenriette,Aurélie,Lebon,Grégoire,Suisse,Femme,Homosexuel,172,64.3,argent,False,2024-02-18 21:11:11
-320,jacobhonore,Lucas,Hoarau,Barbe,Sainte Lucie,Autre,Bisexuel,187,83.9,rouge,True,2021-04-14 13:11:49
-321,thibault68,Manon,Barbe,Gérard-sur-Vallée,Pitcairn (Îles),Homme,Autre,172,97.0,vert,True,2025-04-27 23:48:27
-322,boulayvictor,Agathe,Marchal,Baron,Islande,Autre,Bisexuel,156,61.2,argent,True,2021-07-23 18:25:29
-323,cbriand,Benoît,Moreno,Lefort-sur-Maillot,Tunisie,Femme,Hétéro,163,50.8,jaune,True,2024-08-16 03:12:43
-324,juliette92,Valérie,Barbier,Lemaître-sur-Huet,Syrie,Autre,Hétéro,184,67.3,argent,True,2024-07-23 23:06:05
-325,madeleine71,Lucy,Guilbert,Le Goff-la-Forêt,Rép. Dém. du Congo,Femme,Hétéro,181,97.3,cyan,True,2021-12-05 09:10:36
-326,huguesroux,Éléonore,Baudry,Neveu,Moldavie,Femme,Bisexuel,163,75.6,noir,True,2022-12-08 08:42:38
-327,audrey58,Émilie,Legendre,Marchanddan,Égypte,Femme,Homosexuel,198,73.3,gris,True,2023-12-29 06:36:21
-328,jacquelinejacob,Charlotte,Perret,Laine,République Dominicaine,Homme,Autre,181,91.2,sarcelle,True,2021-02-26 18:48:48
-329,victoirefabre,Céline,Alexandre,Alves,Pitcairn (Îles),Homme,Bisexuel,183,56.7,bleu,False,2023-10-23 03:02:11
-330,colasremy,Josette,Lemaître,MoulinVille,São Tomé et Príncipe (Rép.),Autre,Hétéro,151,56.9,blanc,False,2023-07-05 07:32:31
-331,ediththibault,Adèle,Renault,Saint DeniseVille,Cook (Îles),Autre,Autre,167,83.2,cyan,True,2022-06-26 22:03:54
-332,gabrieljean,Christophe,Charrier,Sainte Nicolasboeuf,Macau,Homme,Homosexuel,159,55.4,fuchsia,False,2021-08-21 17:36:49
-333,penelope65,Pierre,Maillard,Françoisboeuf,Burundi,Homme,Hétéro,185,68.6,violet,True,2021-11-17 09:43:56
-334,vgirard,Lucas,Weber,Richardnec,Timor,Autre,Hétéro,173,53.3,rouge,False,2021-04-28 10:44:46
-335,susanthibault,Célina,Chauveau,Bailly,Guyane française,Homme,Bisexuel,173,97.3,bordeaux,True,2021-11-18 20:54:39
-336,bigotarthur,Thibaut,Marques,Sainte Thibaut,Monaco,Homme,Autre,173,81.3,vert,False,2021-06-17 10:44:09
-337,thibault14,Aimée,Joseph,Labbé,Ouganda,Femme,Hétéro,188,80.0,vert,True,2023-04-21 20:26:15
-338,pascalbernadette,Thibaut,Gaillard,Vallet,Swaziland,Autre,Homosexuel,179,94.4,argent,False,2022-08-11 05:05:29
-339,celine74,Adrien,Peltier,Petit-sur-Mer,Mozambique,Femme,Autre,174,74.2,vert,True,2024-07-20 07:04:18
-340,henrietteleger,Lorraine,Barbier,Saint ChristianeVille,Autriche,Autre,Bisexuel,198,81.3,jaune,True,2020-08-11 12:27:43
-341,valerielucas,Paulette,Potier,Saint Nathalie-les-Bains,Montserrat,Autre,Bisexuel,187,55.5,violet,False,2023-04-20 13:39:01
-342,diazetienne,Roger,Leduc,Saint Olivier,Cuba,Homme,Autre,200,97.2,noir,False,2023-09-10 20:38:21
-343,tpoirier,Franck,Meunier,Durand,Samoa,Autre,Hétéro,151,98.6,noir,True,2023-10-29 21:29:46
-344,alesage,Catherine,Blanchard,Chauvet,Koweit,Homme,Homosexuel,163,98.0,argent,True,2023-10-10 06:36:25
-345,noel36,Philippine,Lenoir,Bodin,Niue,Femme,Homosexuel,190,66.0,jaune,False,2022-01-03 19:54:12
-346,yjacquet,Timothée,Perrier,Bègue,Burkina Faso,Femme,Homosexuel,178,64.2,gris,True,2024-10-07 06:59:09
-347,genevieve30,Margaret,Couturier,Jacob,Norvège,Autre,Hétéro,183,79.9,jaune,False,2023-01-23 02:28:27
-348,pauline86,Capucine,Legros,Gillet-sur-Leleu,Seychelles,Femme,Bisexuel,197,77.2,gris,False,2020-06-01 09:29:10
-349,pierregarcia,Alexandre,Ferreira,Sainte Alphonse,Paraguay,Femme,Autre,195,65.0,argent,True,2025-01-27 09:09:38
-350,zoedevaux,Céline,Dias,Meyer,France,Homme,Hétéro,187,53.6,rouge,False,2020-08-14 03:24:37
-351,philippepaulette,Frédérique,Morin,Saint Zoé,Qatar,Homme,Bisexuel,159,87.9,argent,False,2020-02-05 01:55:13
-352,rousseauvirginie,Pauline,Blin,Sainte Dorothée,Suisse,Homme,Homosexuel,174,53.3,violet,True,2024-09-23 00:03:32
-353,carolineperon,Suzanne,Schneider,Pages,Italie,Autre,Autre,178,74.1,sarcelle,True,2023-04-20 13:49:33
-354,fernandezodette,Matthieu,Andre,Marty,Botswana,Autre,Bisexuel,200,56.5,sarcelle,True,2023-08-04 00:26:38
-355,falbert,Élise,Goncalves,Jacob,Mariannes du Nord (Îles),Homme,Hétéro,194,90.3,vert,True,2025-01-08 20:31:59
-356,denisferreira,André,Deschamps,Bourgeoisdan,Saint Vincent et les Grenadines,Femme,Homosexuel,165,63.3,jaune,True,2023-01-31 07:04:13
-357,egarcia,Odette,Dumont,Wagnernec,Jordanie,Femme,Hétéro,194,84.7,gris,True,2023-05-07 23:15:53
-358,wpierre,Alain,Lopes,Sainte Gabrielle,Canada,Autre,Hétéro,170,78.9,argent,True,2023-03-09 13:29:35
-359,cecile54,Marie,Rey,Buissonnec,Albanie,Femme,Autre,161,86.9,rouge,False,2024-03-21 13:29:20
-360,renee00,Josette,Langlois,Fabre,Malte,Femme,Bisexuel,179,55.0,noir,False,2022-02-10 08:49:49
-361,bretonandre,Gilbert,Imbert,Briand-sur-Mer,Yougoslavie,Homme,Bisexuel,193,68.7,blanc,False,2022-02-04 06:43:11
-362,margotcharrier,Marie,Gaudin,Lagarde,Pays-Bas,Femme,Autre,153,58.2,argent,True,2024-09-26 11:22:41
-363,julietteparent,Alice,Leblanc,Sainte Daniellenec,Maroc,Autre,Homosexuel,199,51.4,sarcelle,False,2024-02-26 05:14:35
-364,mahesusanne,Claudine,Lacroix,Auger-les-Bains,Côte d'Ivoire,Homme,Bisexuel,179,84.8,blanc,False,2020-01-19 03:04:43
-365,pdavid,Alexandrie,Imbert,Saint Élodie,Algérie,Homme,Hétéro,174,86.2,cyan,False,2023-03-13 13:35:50
-366,adrienne86,Tristan,Gillet,AugerBourg,Mexique,Autre,Bisexuel,170,63.9,gris,False,2024-07-25 11:44:34
-367,uhernandez,Raymond,Allain,Couturier,Tadjikistan,Autre,Autre,199,55.2,blanc,False,2020-11-25 22:59:49
-368,emileraymond,Denis,Guillon,Saint André,Ouganda,Homme,Hétéro,190,69.2,sarcelle,False,2020-06-18 17:27:34
-369,margot05,Monique,Gosselin,Besson-les-Bains,Pérou,Autre,Autre,183,61.4,bleu,False,2022-08-05 09:41:50
-370,caroline93,Henriette,Coste,Toussaint,Suisse,Homme,Hétéro,199,65.1,fuchsia,True,2021-08-06 06:50:56
-371,aurorenoel,Odette,Morel,Ferrand,Îles Mineures Éloignées des États-Unis,Homme,Homosexuel,199,72.7,blanc,False,2020-08-14 14:08:20
-372,fabreluce,Élisabeth,Rey,Rey,Yougoslavie,Autre,Homosexuel,151,77.9,fuchsia,False,2021-01-12 13:23:41
-373,adrien67,Danielle,Weber,Georges,Autriche,Autre,Bisexuel,175,73.8,argent,False,2025-02-09 02:23:50
-374,robertbarbe,Jacques,Hoareau,Imbert,Afrique du sud,Femme,Homosexuel,158,59.3,noir,True,2022-06-21 08:24:33
-375,obarthelemy,Joséphine,Delorme,TraoreVille,Myanmar,Autre,Bisexuel,180,77.5,fuchsia,True,2022-11-03 16:10:52
-376,srichard,Céline,Lefebvre,Roy-les-Bains,Martinique,Homme,Homosexuel,198,61.2,cyan,False,2022-10-08 18:37:20
-377,lpasquier,Adrien,Martinez,Boyer-la-Forêt,Samoa,Autre,Hétéro,196,81.1,jaune,True,2020-08-22 19:36:09
-378,duhamelrobert,Denise,Olivier,Gimenez,Grenade,Autre,Autre,195,60.3,bordeaux,True,2022-07-18 08:28:31
-379,delmasmichelle,Léon,Olivier,BourdonBourg,Costa Rica,Homme,Autre,155,99.1,argent,True,2024-12-21 12:43:52
-380,xdeschamps,William,Le Goff,Lopez-sur-Robin,Jordanie,Femme,Homosexuel,199,72.3,vert,True,2023-05-24 00:02:48
-381,marie74,Madeleine,Martineau,Chauveau-sur-Mer,Mongolie,Autre,Bisexuel,166,62.2,blanc,True,2022-05-07 21:34:47
-382,maryse00,Rémy,Pascal,Sainte Éléonoredan,France,Autre,Bisexuel,199,83.0,vert,False,2024-09-27 00:05:58
-383,ojulien,Célina,Brunet,Raynaud,Kazakhstan,Homme,Autre,178,64.5,fuchsia,True,2022-06-13 16:58:33
-384,vmasson,Agathe,Alexandre,Berniernec,Togo,Femme,Autre,168,92.3,bleu,False,2022-07-20 07:45:21
-385,maillardfrancoise,Augustin,Morin,Collet,Norvège,Femme,Autre,196,72.4,rouge,True,2024-10-25 14:28:13
-386,margauxgaillard,Gérard,Morvan,Durand,Saint Pierre et Miquelon,Femme,Homosexuel,150,58.4,bleu,True,2022-05-18 20:35:05
-387,chretienmaurice,Noémi,Rivière,Sainte Mauriceboeuf,Slovénie,Femme,Bisexuel,177,79.3,rouge,False,2025-03-13 02:50:43
-388,hortense00,Paul,Benard,Lemaire,El Salvador,Autre,Hétéro,164,78.2,vert,True,2024-09-29 12:18:52
-389,umallet,Martin,Guillot,Weissnec,Arabie saoudite,Femme,Homosexuel,154,75.7,gris,False,2023-11-29 05:09:13
-390,josephluc,Éléonore,Hernandez,Maillotboeuf,Gibraltar,Femme,Hétéro,193,57.4,bleu,True,2023-06-22 20:33:56
-391,henrihamel,Adrienne,Durand,Auger-sur-Mer,La Barbad,Femme,Homosexuel,150,89.0,fuchsia,True,2023-12-26 05:14:33
-392,marquesmaggie,Éric,Letellier,Laroche-sur-Moreau,Saint Pierre et Miquelon,Autre,Bisexuel,157,64.0,argent,True,2024-10-07 16:15:17
-393,louisgiraud,Aurélie,Rey,Bouvier,Géorgie du Sud et Sandwich du Sud (Îles),Homme,Autre,189,82.8,argent,True,2020-08-27 04:36:09
-394,laporteaugustin,Léon,Dupont,Saint Nathalie,Biélorussie,Autre,Hétéro,174,93.0,sarcelle,True,2022-01-29 09:16:15
-395,edouardfontaine,Hortense,Normand,Allard,Monaco,Autre,Homosexuel,162,97.3,jaune,True,2020-03-04 18:50:23
-396,raynaudchristiane,Paulette,Guilbert,Saint FrédéricVille,São Tomé et Príncipe (Rép.),Homme,Bisexuel,190,69.3,vert,False,2020-12-29 13:38:44
-397,chantal78,Luc,Le Gall,Pineau,Cocos (Îles),Homme,Autre,199,99.0,rouge,False,2021-07-31 02:38:36
-398,christianemarques,Grégoire,Laine,Saint Huguesboeuf,Syrie,Femme,Homosexuel,184,54.6,blanc,False,2023-12-08 03:56:34
-399,juleslanglois,Diane,Perrot,Saint Margotnec,Zaïre,Homme,Hétéro,154,99.6,sarcelle,True,2023-08-24 21:29:39
-400,arnaudeprevost,Margot,Becker,Royer-sur-Mer,Allemagne,Autre,Homosexuel,183,78.8,fuchsia,True,2022-08-13 16:54:40
+id_u,pseudo,prenom,nom,ville,pays,genre,orientation,taille,poids,couleur_y,date_crea,est_abonne,interets,hobbies,age_pref_min,age_pref_max,taille_pref_min,taille_pref_max,education,profession,langues_parlees
+1,valerie95,Adèle,Pineau,Sainte Juliette,Cayman (Îles),Homme,Hétéro,188,63.5,sarcelle,2022-07-13 14:45:22,False,['jardinage'],['théâtre'],26,46,167,197,Licence,chef de station de traitement des eaux,['Zhuang']
+2,guyontheodore,Timothée,Cordier,Pires,Japon,Autre,Homosexuel,190,65.2,violet,2021-11-24 10:47:02,False,['amour'],['cinéma'],30,41,152,197,Lycee,spécialiste des affaires réglementaires en chimie,"['Kannada', 'Burmese', 'Sinhala']"
+3,remyfernandes,Alexandria,Pelletier,Valentin-sur-Mer,Swaziland,Femme,Bisexuel,185,78.1,fuchsia,2020-07-07 14:33:19,False,['cuisine'],['cuisine'],30,55,169,188,Master,peintre en bâtiment,"['Turkish', 'Zhuang']"
+4,camustristan,Margot,Blin,Costa-sur-Mer,Guyane française,Femme,Hétéro,199,82.3,gris,2022-06-04 19:09:48,False,['amour'],['jeux vidéo'],23,98,156,172,Master,géologue,"['Hungarian', 'Sanskrit', 'Chuvash']"
+5,leboncecile,Camille,Goncalves,Dumas,Oman,Autre,Hétéro,164,98.0,sarcelle,2020-06-24 14:22:58,False,['jeux vidéo'],['cuisine'],28,41,155,174,Licence,caissier,['Maori']
+6,rmorvan,Anastasie,Marty,Marchandnec,Suriname,Femme,Bisexuel,170,80.1,cyan,2022-07-23 18:37:25,True,['jardinage'],['arts martiaux'],24,45,155,184,Licence,magistrat,"['Malay', 'Gujarati']"
+7,sylvie06,Édouard,Carlier,Bailly,Belize,Autre,Autre,196,97.5,rouge,2020-08-12 09:59:30,False,['bricolage'],['méditation'],24,87,161,189,Lycee,dépanneur en électroménager,['Azerbaijani']
+8,sebastien67,Monique,Payet,Wagnernec,Suisse,Homme,Autre,167,83.3,cyan,2024-08-02 12:48:27,False,['musique'],['yoga'],28,51,155,170,Doctorat,chef de chantier en installations électriques,"['Akan', 'Sinhala']"
+9,oleroy,Olivie,Georges,Roger,Afghanistan,Autre,Hétéro,171,73.4,bleu,2020-04-22 18:26:34,True,['jeux vidéo'],['méditation'],29,36,170,188,Lycee,enseignant spécialisé spécialisée,"['Cornish', 'Ojibwa']"
+10,martine14,Corinne,Rousset,Laine-la-Forêt,Heard et McDonald (Îles),Autre,Hétéro,197,99.0,fuchsia,2021-02-04 06:51:43,False,['cinéma'],['lecture'],18,53,169,176,Lycee,monteur-câbleur,['Swedish']
+11,antoine31,Marguerite,Lesage,Camusdan,Guinée,Autre,Bisexuel,178,56.8,vert,2021-05-06 08:03:25,True,['cinéma'],['bricolage'],22,45,150,174,Lycee,agronome,"['Corsican', 'Akan', 'Inupiaq']"
+12,erenaud,Sabine,Auger,Fournier,Nouvelle Calédonie,Homme,Homosexuel,185,79.8,vert,2020-09-03 08:20:25,True,['amour'],['écriture'],20,74,159,183,Licence,chargé de clientèle banque,"['Uzbek', 'Luxembourgish', 'Avestan']"
+13,meuniergregoire,Benjamin,Riou,BernardVille,Cayman (Îles),Autre,Bisexuel,151,56.2,violet,2022-12-15 09:38:59,True,['lecture'],['yoga'],27,73,163,183,Doctorat,technicien en optique de précision,['Yoruba']
+14,wlacroix,Élodie,Arnaud,Henry-sur-Raynaud,Rép. Dém. du Congo,Femme,Autre,174,65.0,jaune,2021-12-29 16:08:13,True,['sciences'],['randonnée'],26,86,165,197,Master,géomaticien,"['Hausa', 'Hungarian']"
+15,bramos,Lucas,Ribeiro,Martynec,Maroc,Autre,Homosexuel,169,99.9,gris,2021-02-27 03:08:10,False,['amour'],['natation'],24,45,159,187,Doctorat,facteur,"['Maori', 'Norwegian', 'Northern Sami']"
+16,lopezlucy,Jules,Gautier,Rodriguez,Danemark,Autre,Homosexuel,174,56.4,blanc,2024-11-06 16:50:05,False,['amour'],['théâtre'],26,38,156,193,Licence,aide-soignant,"['Sango', 'Fijian', 'Bulgarian']"
+17,susanne94,Virginie,Lefèvre,Girard,Tuvalu,Autre,Autre,180,72.6,vert,2021-12-01 15:35:49,False,['art'],['écriture'],28,30,170,193,Lycee,médecin de secours en montagne,"['Hindi', 'Ewe']"
+18,vincentferrand,Susanne,Bernier,Léger-sur-Morvan,Sainte Lucie,Autre,Bisexuel,159,66.7,bleu,2020-10-07 13:10:51,True,['art'],['sport'],22,94,164,172,Master,inséminateur,"['Urdu', 'Slovenian', 'Sardinian']"
+19,legrosnathalie,Lucy,Pineau,Grondin,Mozambique,Homme,Autre,157,87.2,rouge,2022-07-22 00:16:37,False,['cinéma'],['sport'],19,34,163,195,Master,aérodynamicien,"['Swahili', 'Romansh']"
+20,charlottecolas,Thibault,Morin,Jacquetdan,Malawi,Autre,Autre,153,50.5,bordeaux,2022-08-08 11:44:10,True,['histoire'],['musique'],28,45,153,180,Doctorat,orthoptiste,"['Church Slavic', 'Swahili']"
+21,lbrunel,Anaïs,Guichard,Sainte Alex,Géorgie,Femme,Homosexuel,163,92.1,vert,2024-12-18 18:41:39,False,['amour'],['danse'],20,35,166,181,Doctorat,accompagnant éducatif et social éducative et sociale,"['Portuguese', 'Venda']"
+22,tmonnier,Marine,Buisson,Delaunay,Singapour,Autre,Bisexuel,174,98.4,vert,2023-08-21 04:00:16,False,['technologie'],['photographie'],20,45,162,172,Master,architecte des systèmes d'information,"['Tagalog', 'Kurdish', 'Turkish']"
+23,letellieranais,Auguste,Bigot,Valette-sur-Guérin,Chypre,Homme,Autre,197,56.8,noir,2025-02-09 00:04:03,False,['musique'],['bricolage'],25,34,166,196,Master,auxiliaire de puériculture,['Kazakh']
+24,jvoisin,Sylvie,Martinez,Sainte JulienBourg,Guyane française,Homme,Autre,182,72.2,rouge,2021-06-07 06:34:26,True,['bricolage'],['musique'],21,91,168,174,Master,pédiatre,['Aragonese']
+25,nathalie57,Laurence,Masse,Sainte Alphonsedan,Libye,Homme,Autre,158,69.0,violet,2022-03-20 06:51:35,False,['art'],['cuisine'],26,72,156,183,Doctorat,formulateur,"['Chamorro', 'Lithuanian']"
+26,carolinebarre,Émile,Legros,LejeuneBourg,Vanuatu,Autre,Hétéro,177,59.9,cyan,2021-05-30 11:29:15,True,['sport'],['randonnée'],23,82,169,190,Lycee,responsable des ouvrages hydroélectriques,"['Georgian', 'Central Khmer']"
+27,da-costabernard,Alfred,Blanchet,Sainte Laurent,Zimbabwe,Homme,Homosexuel,157,69.3,argent,2021-06-19 23:40:34,False,['technologie'],['théâtre'],24,62,162,187,Master,professeur de lycée professionnel,"['Tswana', 'Aymara']"
+28,margauxandre,Patricia,Ledoux,Gérard,Seychelles,Femme,Homosexuel,153,60.1,bordeaux,2022-04-02 22:16:57,False,['art'],['lecture'],27,80,152,196,Doctorat,hot liner,"['Bosnian', 'Sinhala', 'Assamese']"
+29,lefebvrerenee,Astrid,Loiseau,Leroy,Madagascar,Femme,Autre,198,52.7,bleu,2022-10-19 14:41:06,False,['bien-être'],['danse'],30,53,158,180,Licence,animateur nature nature,"['Kinyarwanda', 'Slovenian', 'Kikuyu']"
+30,helenebonneau,Gérard,Rousseau,Leclercq,Nauru,Femme,Bisexuel,184,78.0,gris,2023-09-22 00:37:15,True,['culture'],['arts martiaux'],23,50,166,181,Doctorat,optronicien,['Sanskrit']
+31,bernard44,William,Dumont,Lemaître-la-Forêt,Panama,Homme,Autre,158,73.3,rouge,2023-04-03 08:30:28,False,['sciences'],['jardinage'],24,30,154,181,Licence,agent de développement local,"['Esperanto', 'Avaric', 'Manx']"
+32,philippehubert,Audrey,Adam,Weber-sur-Renard,Syrie,Autre,Autre,198,59.7,bleu,2021-01-09 14:52:44,False,['jeux vidéo'],['lecture'],26,93,167,198,Licence,maroquinier,['Kuanyama']
+33,faivremichele,Isabelle,Bouvet,WagnerBourg,Tunisie,Autre,Bisexuel,182,74.8,noir,2020-04-27 09:50:18,False,['amour'],['peinture'],28,96,161,182,Lycee,ingénieur d'études en sûreté nucléaire,"['Oriya', 'Gujarati', 'Fulah']"
+34,blancmarguerite,Xavier,Foucher,Sainte Maggieboeuf,Rwanda,Femme,Hétéro,158,92.9,fuchsia,2024-07-30 11:11:27,False,['animaux'],['méditation'],23,46,164,178,Licence,technicien des industries du verre,['Ukrainian']
+35,nguyenjeannine,Michelle,Rodriguez,Besson-les-Bains,Italie,Homme,Homosexuel,153,51.3,violet,2021-02-02 01:33:04,False,['danse'],['danse'],21,34,167,173,Doctorat,directeur de golf,['Vietnamese']
+36,webertimothee,Anastasie,Delaunay,Durand,Grenade,Homme,Hétéro,154,60.5,bordeaux,2023-07-08 04:38:07,False,['jardinage'],['voyage'],30,35,159,172,Doctorat,documentaliste,"['Hungarian', 'Turkmen', 'Thai']"
+37,wagnerhelene,Bertrand,Fischer,Rivière,Panama,Homme,Autre,197,57.5,fuchsia,2022-09-02 07:31:58,True,['bricolage'],['yoga'],20,48,160,177,Licence,officier de l'armée de terre,"['Marshallese', 'Amharic']"
+38,frederiquenguyen,Édith,Lamy,Saint Joseph-sur-Mer,Namibie,Homme,Hétéro,173,57.6,gris,2025-03-14 05:25:12,False,['sport'],['écriture'],26,89,157,178,Master,responsable qualité en agroalimentaire,"['Sotho, Southern', 'Aragonese']"
+39,kparent,Pierre,Picard,Deschamps,Italie,Homme,Autre,183,61.1,cyan,2020-05-10 16:16:10,False,['sport'],['jardinage'],29,31,168,186,Doctorat,agent d'escale,"['Afrikaans', 'Avestan', 'Manx']"
+40,ribeirofrancois,Paulette,Lopes,Gros,Ghana,Autre,Homosexuel,198,62.2,blanc,2020-10-14 12:44:23,False,['danse'],['méditation'],22,98,154,177,Doctorat,sapeur-pompier,"['Hindi', 'Twi']"
+41,claudebazin,Mathilde,Le Roux,JourdanVille,Guinée-Bissau,Autre,Homosexuel,177,61.4,fuchsia,2024-02-15 01:25:08,False,['sciences'],['jardinage'],23,68,168,188,Licence,glaciologue,"['Danish', 'Hungarian', 'Divehi']"
+42,jlemaire,Christophe,Lefèvre,Denis,Ouganda,Autre,Hétéro,172,85.0,violet,2022-02-16 20:54:54,True,['sport'],['théâtre'],18,39,168,181,Doctorat,conseiller principal d'éducation principale d'éducation,"['Norwegian', 'Somali']"
+43,bousquetpatrick,Valérie,Lemonnier,Chauvet,Ouzbékistan,Autre,Homosexuel,183,61.8,rouge,2022-05-02 20:52:29,False,['cuisine'],['cinéma'],27,92,150,194,Doctorat,magistrat,['Tigrinya']
+44,thibaultmartin,Auguste,Bouvier,Boulay-les-Bains,Liechtenstein,Femme,Homosexuel,171,87.0,fuchsia,2020-01-13 16:12:58,False,['bien-être'],['théâtre'],22,40,150,182,Doctorat,officier marinier marinière,['Icelandic']
+45,vincentchauvet,Guy,Leclerc,Pons-les-Bains,Grenade,Femme,Autre,188,97.5,cyan,2020-01-13 13:24:50,False,['cuisine'],['musique'],21,62,164,197,Doctorat,miroitier,['Central Khmer']
+46,fernandesthierry,Claudine,Voisin,Sainte Jeannine-sur-Mer,Benin,Autre,Bisexuel,182,68.9,argent,2020-07-27 23:14:20,True,['bien-être'],['cuisine'],19,47,159,195,Licence,militaire technicien de l'air (MTA),"['Faroese', 'Norwegian']"
+47,dbreton,Thibault,Wagner,Barthelemy,Libye,Autre,Hétéro,153,97.2,gris,2022-10-17 23:25:20,False,['technologie'],['lecture'],27,98,151,196,Master,convoyeur de fonds,['Tajik']
+48,opottier,Michelle,Klein,Cohen-les-Bains,Chine (Rép. pop.),Femme,Hétéro,166,96.0,vert,2023-03-07 13:52:33,False,['musique'],['théâtre'],19,45,168,196,Master,météorologiste,['Sinhala']
+49,udescamps,Hélène,Garcia,Cohenboeuf,Mauritanie,Autre,Autre,188,97.0,bleu,2020-10-03 05:49:57,False,['écriture'],['sport'],19,78,154,188,Doctorat,agent d'exploitation de l'eau,"['Interlingua', 'French']"
+50,fmendes,David,Paul,SamsonVille,Tchad,Femme,Autre,179,59.2,bordeaux,2020-07-10 03:32:21,False,['sciences'],['photographie'],29,53,162,177,Master,chargé d'affaires en génie mécanique,['Tsonga']
+51,xavier06,Joseph,Boulanger,Lamy,Burundi,Autre,Homosexuel,166,83.5,vert,2024-11-25 09:01:02,True,['jardinage'],['cinéma'],19,72,154,176,Lycee,coloriste,"['Vietnamese', 'Kannada', 'Faroese']"
+52,gillesjacob,Colette,Muller,Gilbert,Guyane,Homme,Bisexuel,177,54.7,jaune,2025-01-08 10:32:10,True,['jardinage'],['musique'],25,84,168,172,Master,psychanalyste,"['Galician', 'Kinyarwanda']"
+53,marie04,Denise,Mary,Andre,Sierra Leone,Femme,Hétéro,199,98.4,jaune,2024-09-24 13:57:46,True,['cuisine'],['danse'],18,92,156,175,Master,opérateur en traitement des matériaux,"['Aymara', 'Croatian']"
+54,xdias,Laurence,Delahaye,Briand-sur-Hoarau,Iran,Femme,Autre,179,72.8,rouge,2021-11-20 10:21:51,True,['écriture'],['yoga'],24,38,166,174,Master,administrateur de spectacle,"['Marathi', 'Navajo']"
+55,paulinemuller,Agnès,Mallet,MartyVille,Suisse,Femme,Homosexuel,178,80.2,cyan,2022-08-13 09:18:46,True,['lecture'],['peinture'],24,79,165,200,Doctorat,administrateur de biens,"['Kanuri', 'Hebrew']"
+56,cecilemillet,Astrid,Moreau,Lefèvre,Zimbabwe,Autre,Hétéro,189,70.6,rouge,2022-02-01 05:42:52,False,['nature'],['cinéma'],20,37,158,171,Doctorat,énergéticien,"['Abkhazian', 'English', 'Italian']"
+57,gaudinveronique,Marguerite,Giraud,Paris,Papouasie-Nouvelle-Guinée,Autre,Hétéro,178,73.9,vert,2021-04-13 12:13:02,True,['histoire'],['photographie'],22,94,170,176,Lycee,vendeur-conseil en matériel agricole,['Interlingua']
+58,lucielevy,Patricia,Lecoq,Delmas,Andorre,Autre,Homosexuel,200,68.2,cyan,2023-08-05 00:58:23,True,['musique'],['théâtre'],25,35,163,172,Lycee,aide-soignant,"['Swedish', 'Thai']"
+59,lombardrichard,Rémy,Antoine,Martel-sur-Roger,Gambie,Homme,Hétéro,161,93.0,jaune,2021-12-08 15:30:45,False,['sport'],['théâtre'],22,89,159,181,Doctorat,charpentier bois,"['Luba-Katanga', 'Bengali', 'Western Frisian']"
+60,ebouchet,Henriette,Potier,Garnier,Saint Pierre et Miquelon,Homme,Autre,189,65.2,bordeaux,2022-02-16 05:41:32,False,['jardinage'],['peinture'],22,54,153,188,Licence,agent de transit,['Gaelic']
+61,peltieremmanuelle,Alphonse,Gautier,Gimenez,Érythrée,Homme,Homosexuel,189,93.5,cyan,2024-07-18 14:57:26,True,['cinéma'],['yoga'],29,76,167,187,Licence,dessinateur-projeteur,['Lithuanian']
+62,christophe35,Noémi,Rossi,Grégoirenec,Arménie,Femme,Homosexuel,195,75.2,fuchsia,2020-09-09 09:46:57,False,['danse'],['sport'],29,81,166,188,Doctorat,responsable du soutien logistique intégré,['Zhuang']
+63,bertrand62,Margaux,Potier,Perrot,Sierra Leone,Femme,Homosexuel,182,95.8,jaune,2024-01-24 14:09:01,True,['danse'],['lecture'],19,92,154,183,Licence,greffier,['Cornish']
+64,claude09,Andrée,Imbert,Sainte Laurent-les-Bains,Monaco,Homme,Homosexuel,160,97.0,noir,2022-09-16 18:26:29,False,['sport'],['randonnée'],19,76,154,181,Master,ajusteur-monteur,"['Finnish', 'Marathi']"
+65,wpineau,Caroline,Camus,Lombard,Suède,Femme,Hétéro,169,82.0,fuchsia,2020-04-28 07:33:44,False,['animaux'],['jeux vidéo'],21,61,159,186,Doctorat,critique d'art,"['Sinhala', 'Venda']"
+66,antoinette14,Jules,Bourdon,Moulin,Libye,Autre,Autre,164,74.1,rouge,2021-12-18 15:40:50,False,['voyage'],['sport'],30,91,166,181,Master,surveillant de centre pénitentiaire,"['Azerbaijani', 'Occitan', 'Basque']"
+67,genevieveguilbert,Rémy,Henry,Denis,Géorgie,Homme,Homosexuel,176,56.1,vert,2025-04-10 14:44:53,True,['technologie'],['peinture'],22,58,153,183,Licence,conducteur routier routière,['Japanese']
+68,philippinecollin,Gilbert,Ribeiro,Adam,Turkménistan,Autre,Autre,176,72.1,bleu,2024-05-21 06:10:00,False,['culture'],['yoga'],22,57,166,193,Licence,médiateur familial familiale,"['Serbian', 'Nepali', 'Basque']"
+69,igrenier,Adrien,Bazin,Saint Margaud-la-Forêt,Maurice,Femme,Bisexuel,172,90.9,jaune,2021-11-03 11:48:01,True,['jeux vidéo'],['théâtre'],30,76,161,183,Licence,agent arboricole,['Inupiaq']
+70,paulolivier,Laure,Muller,Ferreiraboeuf,Singapour,Homme,Autre,157,66.6,blanc,2022-03-21 13:48:16,False,['animaux'],['lecture'],22,57,160,171,Licence,metteur en scène,"['Malayalam', 'Galician', 'German']"
+71,maillardtristan,Richard,Simon,Thomas,Luxembourg,Homme,Autre,187,92.4,jaune,2022-03-13 03:56:25,False,['sciences'],['peinture'],18,70,155,200,Lycee,concepteur de jeux vidéo,"['Limburgan', 'Amharic', 'Lingala']"
+72,jeannine12,Martin,Klein,Guillou,Costa Rica,Autre,Autre,161,93.9,argent,2023-12-20 21:52:32,True,['mode'],['photographie'],25,90,155,188,Master,agent de transit,['Uighur']
+73,vboulanger,Franck,Mahe,Jacquot,Jordanie,Femme,Autre,150,60.3,argent,2024-03-06 04:34:48,True,['lecture'],['cinéma'],27,81,154,192,Lycee,décorateur,"['Chichewa', 'Amharic']"
+74,emmanuelle38,Laurence,Dupuy,Coulon,Géorgie du Sud et Sandwich du Sud (Îles),Homme,Autre,192,93.0,jaune,2021-10-30 01:27:04,True,['écriture'],['natation'],23,38,163,184,Master,ingénieur gaz,"['Basque', 'Slovak']"
+75,glaurent,Julie,Lucas,Sainte Philippine-les-Bains,Hongrie,Homme,Hétéro,158,91.4,noir,2024-03-07 03:29:41,True,['sciences'],['méditation'],23,88,153,174,Doctorat,accompagnateur de tourisme équestre,"['Marshallese', 'Aymara']"
+76,denisemile,Suzanne,Vaillant,Sanchezdan,Rwanda,Femme,Bisexuel,162,85.9,sarcelle,2023-03-09 12:51:38,False,['histoire'],['théâtre'],22,87,160,197,Lycee,accompagnateur de tourisme équestre,"['Turkish', 'Basque', 'Yoruba']"
+77,vguilbert,André,Weiss,Laporte,Heard et McDonald (Îles),Autre,Autre,162,68.6,gris,2022-01-26 15:21:30,False,['cinéma'],['voyage'],21,39,160,198,Master,attaché commercial commerciale,"['Estonian', 'Czech']"
+78,lorraine30,Valentine,Jacquet,Turpin,Luxembourg,Autre,Homosexuel,175,79.4,argent,2023-10-31 06:06:39,False,['mode'],['bricolage'],23,91,168,171,Licence,"inspecteur des douanes, des finances publiques ou du travail","['Luba-Katanga', 'Occitan', 'Somali']"
+79,wloiseau,Anaïs,Giraud,JosephVille,Hong Kong,Autre,Bisexuel,181,80.4,fuchsia,2020-05-28 12:35:26,False,['jardinage'],['photographie'],24,87,167,177,Lycee,chargé d'études en valorisation agricole des déchets,"['Greek', 'Hausa', 'Catalan']"
+80,charlotte58,Alexandria,Gaudin,Maurice-sur-Renault,Nepal,Homme,Bisexuel,195,60.6,blanc,2023-02-07 13:36:05,True,['danse'],['danse'],20,81,154,194,Licence,souffleur de verre,"['Oriya', 'Lao']"
+81,gilletmatthieu,Daniel,Poirier,Gay,Samoa,Homme,Homosexuel,171,64.0,argent,2020-08-03 04:32:54,False,['mode'],['peinture'],29,43,158,185,Lycee,restaurateur d'oeuvres d'art,['Dzongkha']
+82,alexandrelaurent,Gilbert,Lamy,Albert,Heard et McDonald (Îles),Femme,Autre,161,87.0,fuchsia,2021-04-29 21:30:20,True,['amour'],['méditation'],19,91,155,179,Doctorat,étalagiste,"['Tonga', 'Urdu']"
+83,oguerin,Diane,Giraud,Saint AndréBourg,Colombie,Femme,Bisexuel,168,69.3,cyan,2025-03-06 14:57:39,False,['sport'],['jeux vidéo'],30,67,151,191,Doctorat,généticien,['Bihari languages']
+84,qmace,Richard,Perrin,Gros,Norvège,Homme,Bisexuel,175,89.7,jaune,2022-08-16 21:05:28,True,['technologie'],['yoga'],21,83,165,200,Master,formulateur,"['Marathi', 'Sanskrit', 'Sardinian']"
+85,margotroger,Élisabeth,Julien,Labbénec,Palau,Autre,Hétéro,171,65.3,sarcelle,2022-10-15 08:10:28,False,['jeux vidéo'],['lecture'],19,55,151,181,Doctorat,technicien de l'intervention sociale et familiale,"['Western Frisian', 'Igbo', 'Sango']"
+86,margaret49,Anouk,Clerc,Sainte Dominique-la-Forêt,Chili,Homme,Homosexuel,194,73.4,bordeaux,2022-03-16 22:54:16,True,['voyage'],['photographie'],27,67,160,179,Lycee,régleur,"['Western Frisian', 'Indonesian', 'Bulgarian']"
+87,hortense88,Claudine,Bonnet,TexierVille,Turkménistan,Autre,Bisexuel,179,78.2,sarcelle,2023-02-22 04:37:04,True,['jardinage'],['lecture'],19,37,151,177,Doctorat,développeur économique,"['Ido', 'Tswana']"
+88,veronique55,Renée,Rolland,Letellier,Guyane française,Homme,Bisexuel,185,74.2,cyan,2021-06-12 20:17:49,False,['cuisine'],['randonnée'],19,97,164,191,Master,chef de projet éolien,"['Rundi', 'Bambara', 'Tsonga']"
+89,aurorecollet,Zoé,Meunier,Saint André,La Barbad,Homme,Autre,176,64.0,cyan,2023-09-22 08:41:35,True,['bien-être'],['photographie'],29,82,163,189,Licence,ingénieur radioprotection,['Czech']
+90,rollandfrancois,Adrien,Bertin,Joseph,Zambie,Homme,Bisexuel,194,91.6,sarcelle,2023-10-25 02:56:36,False,['art'],['jeux vidéo'],28,58,162,198,Doctorat,acheteur,['Akan']
+91,raymond71,Margaud,Fleury,Barbier,République tchèque,Autre,Bisexuel,157,95.9,vert,2020-12-22 01:53:58,False,['technologie'],['voyage'],20,97,164,185,Lycee,ouvrier forestier forestière,"['Polish', 'Marshallese']"
+92,laportetherese,Christophe,Masson,Normand,Tchad,Homme,Homosexuel,190,88.3,sarcelle,2020-03-27 06:27:23,True,['lecture'],['cuisine'],19,78,159,183,Licence,ergothérapeute,"['Tigrinya', 'French']"
+93,margueriteverdier,Stéphane,Joly,Saint Tristandan,Kenya,Homme,Hétéro,197,84.6,vert,2023-09-11 06:22:46,False,['écriture'],['yoga'],23,75,158,175,Lycee,technicien de maintenance industrielle,['Telugu']
+94,christine60,Céline,Rossi,Rocher,Qatar,Autre,Autre,174,65.2,blanc,2020-01-23 20:38:15,False,['nature'],['arts martiaux'],24,47,167,176,Master,employé d'élevage,"['Yiddish', 'Macedonian', 'Yoruba']"
+95,henri17,Marguerite,Foucher,Sainte Chantaldan,Rép. Dém. du Congo,Femme,Hétéro,174,61.6,blanc,2024-01-14 21:20:27,False,['art'],['arts martiaux'],27,68,170,192,Lycee,conducteur de bus ou d'autocar,"['Divehi', 'Nauru', 'Tigrinya']"
+96,sblanc,Éléonore,Godard,Baron,Vietnam,Femme,Hétéro,198,93.1,blanc,2025-01-10 17:51:03,True,['bien-être'],['peinture'],22,82,161,183,Lycee,anatomiste,"['Interlingua', 'Bashkir', 'North Ndebele']"
+97,chevalierdenis,Geneviève,Rivière,Perrot-sur-Chauveau,Macédoine du Nord,Autre,Bisexuel,185,59.8,sarcelle,2022-09-22 02:53:59,True,['jeux vidéo'],['photographie'],20,83,156,173,Master,chef de produit marketing,['Urdu']
+98,reyaugustin,Jacqueline,Vincent,Alves,Émirats arabes unis,Femme,Autre,178,69.8,fuchsia,2024-07-20 19:54:45,True,['bien-être'],['sport'],21,36,158,188,Lycee,ingénieur électronicien électronicienne,"['Haitian', 'Georgian', 'Kurdish']"
+99,adriengomez,Pénélope,Jacquet,Alexandre-sur-Launay,Comores,Autre,Hétéro,195,99.8,noir,2021-06-05 03:49:47,False,['voyage'],['sport'],24,31,153,184,Licence,pilote de ligne automatisée (chimie - agroalimentaire - industrie pharmaceutique),['Maori']
+100,cgiraud,Laurent,Lacombe,David-sur-Mer,Équateur,Femme,Homosexuel,178,75.8,bleu,2020-03-30 09:33:14,False,['écriture'],['natation'],24,68,163,195,Master,responsable de rémunération,"['Kazakh', 'Central Khmer']"
